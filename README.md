@@ -32,15 +32,17 @@ Sotap Wiki
 ```
 |文件名称|用途|
 |:-:|:-:|
-|`.nojekll`|阻止 GitHub 忽略以 `_` 开头的文件|
-|`CNAME`|GitHub 的自定义域名配置|
-|`custom.css`|页面的自定义布局样式|
-|`index.html`|整个文档的入口页面和 Docsify 的配置位置|
+|`.nojekll`|阻止 GitHub 在渲染时忽略掉以 `_` 开头的文件|
+|`CNAME`|GitHub 的自定义域名配置，一般不修改|
+|`custom.css`|页面的自定义布局样式，可以添加一些自有的样式|
+|`index.html`|整个文档的入口页面和 Docsify 的配置位置，可以在这里配置 Docsify|
 |`README.md`|GitHub README|
 |`_404.md`|404 页面|
-|`_sidebar.md`|侧边栏|
+|`_sidebar.md`|侧边栏，可以在这里找到文档中的所有文章|
 
-其余的均为文档。文档列表可以在 `_sidebar.md` 里面找到，在要编辑页面的时候，先打开 `_sidebar.md`，在里面找到你要编辑的页面后，找到相应的文件进行编辑。`getting-started`、`others` 等目录用作文档分类用途，在路由渲染的时候会被定向为 `/#/getting-started/...`。
+其余的均为文档。文档列表可以在 `_sidebar.md` 里面找到。
+
+在要编辑页面的时候，先打开 `_sidebar.md`，在里面找到你要编辑的页面后，找到相应的文件进行编辑。`getting-started`、`others` 等目录用作文档分类用途，在路由渲染的时候会被定向为 `/#/getting-started/...`。
 
 ## 路由重写
 
