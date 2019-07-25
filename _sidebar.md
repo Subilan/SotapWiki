@@ -10,6 +10,7 @@
     - [加入服务器](getting-started/entering-server.md)
     - [基础指令](getting-started/basic-commands.md)
 - 附加内容
+    - [指令概念与格式](others/commands-information.md)
     - [指令大全(玩家篇)](others/commands-for-players.md)
     - [指令大全(OP 篇)](others/commands-for-operators.md)
 - 插件使用
