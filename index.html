@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="./custom.css">
 	<link href="https://fonts.loli.net/css?family=Poppins:700|Source+Sans+Pro&display=swap" rel="stylesheet">
 	<link rel="icon" href="https://sotap.oss-cn-qingdao.aliyuncs.com/favicon.ico">
+	<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 </head>
 
 <body>
@@ -34,6 +35,18 @@
 	<script src="//unpkg.com/docsify/lib/docsify.min.js" data-ga="UA-128204434-2"></script>
 	<!--<script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>-->
 	<script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+	<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+	<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+	<script>
+		const gitalk = new Gitalk({
+			clientID: '5fcaa1bd91841a1fa68e',
+			clientSecret: 'b2b02894533c6b03877e76ed8b3ae71e769dfc46',
+			repo: 'https://github.com/Subilan/SotapWiki',
+			owner: 'Subilan',
+			admin: ['Subilan'],
+			distractionFreeMode: false
+		})
+	</script>
 </body>
 
 </html>
