@@ -1,23 +1,51 @@
-# 开始
+# Sotap Wiki
 
-**欢迎来到 Sotap Wiki(发音 `/'wɪkɪ/`，维基)！**
+这里是 Sotap 的官方维基文档 GitHub 仓库，目前挂载在 GitHub Pages 上，实际上使用自定义域名 <https://wiki.sotap.org>。使用 [Docsify](//docsify.js.org) 搭建，并自定义了部分布局样式。
 
-作为一个 Sotap Minecraft 服务器的玩家，您可以在这里找到所有「您可能需要」的东西。较为简单基础的东西或者晦涩难懂的东西都会在这里记录，比如，您就可以在这里学到包括但不仅限于下列知识
+## 贡献
 
-- Sotap 是个啥？
-- 如何圈地？
-- 如何进入服务器？
-- 无法进入服务器该怎么办？
-- ...
+如果需要对 Wiki 内容提出修改，请直接 `clone` 以后修改相应文档的内容，发起 [Pull Request](https://github.com/Subilan/SotapWiki/pulls) 即可。本 Wiki 的目录结构：
 
-同时，我们还有一些附加的内容，比如「服务器指令大全」等，这些指令您甚至可以用于其它 Spigot 服务器。总之，您一旦有了任何问题，欢迎随时前来逛逛！
+```tree
+Sotap Wiki
+│   .nojekyll
+│   changelog.md
+│   CNAME
+│   common-problems.md
+│   custom.css
+│   index.html
+│   index.md
+│   introduction.md
+│   overview.md
+│   README.md
+│   rules.md
+│   _404.md
+│   _sidebar.md
+│
+├───getting-started
+│       basic-commands.md
+│       entering-server.md
+│       preparation.md
+│
+└───others
+        commands-for-players.md
+```
+|文件名称|用途|
+|:-:|:-:|
+|`.nojekll`|阻止 GitHub 忽略以 `_` 开头的文件|
+|`CNAME`|GitHub 的自定义域名配置|
+|`custom.css`|页面的自定义布局样式|
+|`index.html`|整个文档的入口页面和 Docsify 的配置位置|
+|`README.md`|GitHub README|
+|`_404.md`|404 页面|
+|`_sidebar.md`|侧边栏|
 
-## 还有一些话...
+其余的均为文档。文档列表可以在 `_sidebar.md` 里面找到，在要编辑页面的时候，先打开 `_sidebar.md`，在里面找到你要编辑的页面后，找到相应的文件进行编辑。`getting-started`、`others` 等目录用作文档分类用途，在路由渲染的时候会被定向为 `/#/getting-started/...`。
 
-如果您具备一定的计算机基础，您甚至可以帮助我们维护这个 Wiki 的内容。我们把 Wiki 托管到了 GitHub 上，因此每一个人都可以自由地查看它的源代码，当然，也可以进行修改。
+## 路由重写
 
-我们会不定期地对 Wiki 的内容进行更新，更新的日志会详细写在[这里](changelog.md)（👈 没错，点一下就可以跳转过去啦！）。如果您不具备代码水平，您同样可以在我们的官方讨论群内对此 Wiki 的内容提出意见和建议，并帮助修改 Wiki。
+我们还是非常希望使用 `history` 的路由模式的，但是这将会用到重写功能。GitHub 为了考虑安全问题禁止了这一点，因此，在 GitHub 上托管的时期，我们均会使用 `hash` 模式进行发布。
 
-那么，上面的开篇话语都讲完了，现在开始您的阅读吧！
+## 提出问题
 
-**Wiki 还在缓慢发展中，您的支持可以使我们将内容做得更好！**
+可以选择在 GitHub 的 [Issue](https://github.com/Subilan/SotapWiki/issues) 里提出或者直接在文档下的 GitTalk 评论。
