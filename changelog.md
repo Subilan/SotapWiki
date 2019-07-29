@@ -6,6 +6,21 @@
 
 ### 7 月
 
+#### 29 日
+
+新增插件解释
+
+- Golden Enchants（更多附魔）
+    - [介绍](plugins/golden-enchants/introduction.md)
+    - [战斗附魔](plugins/golden-enchants/combat-enchants.md)
+    - [工具和弓附魔](plugins/golden-enchants/tools-bows-enchants.md)
+    - [护甲附魔](plugins/golden-enchants/armor-enchants.md)
+
+新增页面
+
+- [指令格式](others/command-format.md)（测试版）
+- [Residence 权限名称附表](assets/residence-flags.md)
+
 #### 24 日
 
 新增页面

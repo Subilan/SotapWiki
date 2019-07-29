@@ -39,7 +39,7 @@
 |指令名称|参数|含义|举例|
 |:-:|:-:|:-:|:-:|
 |`auto`|无|以你当前站立的位置为中心，自动创建你能创建最大范围的领地|-|
-|`check`|<领地名称><br><权限名><br><玩家名>|查看某玩家在某领地中的权限状态|-|
+|`check`|<领地名称><br><权限名><br><玩家名>|查看某玩家在某领地中的权限状态|`check fairyhouse admin Sapherise`|
 |`confirm`|无|无实意，用来确认一项敏感操作，如删除领地等|-|
 |`contract`|<领地名称> <格数>|向你面对的方向缩小领地规模**（不退钱）**|`contract fairyhouse 10`|
 |**`create`**|<领地名称>|创建一个新的领地|`create fairyhouse`|
@@ -75,7 +75,7 @@
 `lset` 指令用来设置一个领地的「屏蔽名单」和「黑名单」，**这些名单只能添加物品。**它的用法是
 
 ```minecraft
-/res lset <领地名称> <ignorelist|blacklist|Info> [物品]
+/res lset <领地名称> <ignorelist|blacklist|Info> [物品](!Info)
 ```
 
 接下来用表格对其选择参数做解释
@@ -107,9 +107,8 @@
 `market` 指令用来进行领地的经济操作——是的，你没有看错，服务器的领地支持出售和购买。它的用法是
 
 ```minecraft
-/res market <list|sell|sign|buy|unsell|rent> <领地> [价格]
+/res market <list|sell|sign|buy|unsell|rent> <领地> [价格](!list,unsell)
 ```
-价格在参数为 `unsell` 的情况下不需要填。
 
 值得注意的是，我们不会在这里讲有关租借的（`rent`）和立牌的（`sign`），不影响正常游戏游玩。各参数的作用用表格表示：
 

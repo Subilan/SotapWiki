@@ -10,11 +10,17 @@
     - [加入服务器](getting-started/entering-server.md)
     - [基础指令](getting-started/basic-commands.md)
 - 附加内容
-    - [指令概念与格式](others/commands-information.md)
+    - [指令格式](others/command-format.md)
     - [指令大全(玩家篇)](others/commands-for-players.md)
     - [指令大全(OP 篇)](others/commands-for-operators.md)
 - 插件使用
-    - [如何圈地？](plugins/how-to-create-a-residence.md)
+    - Residence
+        - [如何圈地？](plugins/residence/how-to-create-a-residence.md)
+    - Golden Enchants
+        - [介绍](plugins/golden-enchants/introduction.md)
+        - [战斗附魔](plugins/golden-enchants/combat-enchants.md)
+        - [工具和弓附魔](plugins/golden-enchants/tools-bows-enchants.md)
+        - [护甲附魔](plugins/golden-enchants/armor-enchants.md)
     - [服务器插件一览](plugins/all.md)
 - 关于
     - [管理组介绍](about/management.md)
