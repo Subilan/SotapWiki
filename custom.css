@@ -32,3 +32,15 @@ h1,
     margin: 16px;
     font-family: "Poppins", "Source Sans Pro", Helvetica, Arial, sans-serif;
 }
+
+.plugin-hero {
+    font-weight: 700;
+    margin: 16px;
+    font-style: italic;
+    font-family: "Poppins", Helvetica, Arial, sans-serif;
+    text-align: center;
+    font-size: 64px;
+}
+
+.MathJax_Display{overflow-x:auto;overflow-y:hidden;}
+.MathJax{outline:0;}
