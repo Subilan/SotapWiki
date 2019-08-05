@@ -6,6 +6,16 @@
 
 ### 8 月
 
+#### 6 日
+
+<div style="text-align: center;">
+<span style="font-family: 'SimKai', '楷体', '楷体GB2312', '华文中宋', '新宋体', '宋体', serif; font-size: 128px; font-weight: bolder; text-align: center">夏日祭</span>
+
+<span style="font-family: 'SimKai', '楷体', '楷体GB2312', '华文中宋', '新宋体', '宋体', serif;color: #aaa; font-size: 24px">以此纪念已经度过的夏日</span>
+
+<span style="font-family: Segoe UI, 'SimKai', '楷体', '楷体GB2312', '华文中宋', '新宋体', '宋体', serif; font-size: 32px;">2019 | 夏</span>
+</div>
+
 #### 5 日
 
 Sotap 官方论坛站点「G 点」正式开放！[g.sotap.org](//g.sotap.org)👈
