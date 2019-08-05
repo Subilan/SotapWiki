@@ -4,6 +4,12 @@
 
 ## 2019 年
 
+### 8 月
+
+#### 5 日
+
+新增[Markdown 教程](others/markdown-tutorial.md)
+
 ### 7 月
 
 #### 29 日
