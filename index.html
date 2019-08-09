@@ -38,7 +38,9 @@
 						}
 					})
 				}
-			]
+			],
+			subMaxLevel: 2,
+			
 		};
 	</script>
 	<script src="//unpkg.com/docsify/lib/docsify.min.js" data-ga="UA-128204434-2"></script>
@@ -62,6 +64,11 @@
 			}
 		});
 		MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+	</script>
+	<script>
+		if (typeof navigator.serviceWorker !== 'undefined') {
+			navigator.serviceWorker.register('sw.js')
+		}
 	</script>
 </body>
 
