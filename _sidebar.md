@@ -1,19 +1,18 @@
 - [开始](README.md)
 - [服规](rules.md)
-- 了解
+- **了解**
     - [什么是 Sotap？](introduction.md)
     - [概况](overview.md)
     - [关于 OFG](about-ofg.md)
-- 入门
+- **入门**
     - [加入服务器前...](getting-started/preparation.md)
     - [加入服务器](getting-started/entering-server.md)
     - [基础指令](getting-started/basic-commands.md)
-- 附加内容
-    - [Markdown 教程](others/markdown-tutorial.md)
-    - [指令格式](others/command-format.md)
-    - [指令大全(玩家篇)](others/commands-for-players.md)
-    - [指令大全(OP 篇)](others/commands-for-operators.md)
-- 插件使用
+- **论坛**
+    - [介绍](forum/introduction.md)
+    - [常见问题](forum/faq.md)
+    - [Markdown 教程](forum/markdown-tutorial.md)
+- **插件使用**
     - Residence
         - [如何圈地？](plugins/residence/how-to-create-a-residence.md)
     - Golden Enchants
@@ -22,7 +21,13 @@
         - [工具和弓附魔](plugins/golden-enchants/tools-bows-enchants.md)
         - [护甲附魔](plugins/golden-enchants/armor-enchants.md)
     - [服务器插件一览](plugins/all.md)
-- 关于
+- **附加内容**
+    - [指令格式](others/command-format.md)
+    - [指令大全(玩家篇)](others/commands-for-players.md)
+    - [指令大全(OP 篇)](others/commands-for-operators.md)
+- **关于**
     - [管理组介绍](about/management.md)
     - [技术信息](about/technical-information.md)
 - [更新日志](changelog.md)
+- [反馈问题](https://g.sotap.org/t/development)
+    
