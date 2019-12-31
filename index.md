@@ -1,13 +1,13 @@
+# 开始
 
-欢迎来到 Sotap Wiki(发音 `/'wɪkɪ/`，维基)！
-加入社区请先**申请白名单**
+欢迎来到 Sotap Wiki(发音 `/'wɪkɪ/`，维基)！加入社区请先[**申请白名单**](https://sapherise.typeform.com/to/ywFa9A)。
 
-# 当前世界「SoTap Windfall」 
+## 当前世界「SoTap Windfall」 
 
 服务器版本 Paper 1.15.1 **Offline mode**
 
 !>请使用 1.15.1 版本客户端登录，允许加载 Mod。  
-如需进入“潮汐”<code>SEATiDE</code>Mod服务器，须使用 1.12.2 专用客户端登录。  
+如需进入「潮汐 | SEATiDE」Mod 服务器，须使用 1.12.2 专用客户端登录。  
 **不支持其他任何版本**
 
 [官网](https://sotap.org/) | [论坛](https://g.sotap.org/) | [常见问题](https://sotap.org/faq.html) | [新人指南]() | [游戏规则](https://g.sotap.org/rule.html) | [世界地图](http://play.sotap.org:8123)
@@ -19,18 +19,18 @@
 > play.sotap.org  
 
 **「未开放」**~~如果您在中国境外希望使用国际加速专线，请使用:~~
->global.play.sotap.org  
+> global.play.sotap.org  
 
 **「未开放」**~~如果您在中国境内网络较差希望使用国内加速专线，请使用:~~  
->cn.play.sotap.org  
+> cn.play.sotap.org  
 
 如果您仍有延迟过高、网络抖动等问题，请联系管理员寻求帮助。  
 
 ## 联系  
-!>SoTap 社区和社区服务器仅使用 <code>sotap.org</code> 和 <code>seatide.net</code> 域名，且强制开启 HTTPS 加密连接。  
+!>SoTap 社区和社区服务器仅使用 `sotap.org` 和 `seatide.net` 域名，且强制开启 HTTPS 加密连接。  
 SoTap 管理组不会以任何理由**私下**向任何人索要金钱、物品或任何敏感信息。  
 
-- 管理员邮箱:<code>support@dreaming.red</code>
+- 管理员邮箱: `support@dreaming.red`
 
 
 ## 参与贡献...
