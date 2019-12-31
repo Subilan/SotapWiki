@@ -1,4 +1,4 @@
-- [开始](README.md)
+- [开始](index.md)
 - [服规](rules.md)
 - **了解**
     - [什么是 Sotap？](introduction.md)
