@@ -28,7 +28,7 @@
 
 ## 联系  
 !>SoTap 社区和社区服务器仅使用 <code>sotap.org</code> 和 <code>seatide.net</code> 域名，且强制开启 HTTPS 加密连接。  
-SoTap 社区管理组不会以任何理由**私下**向任何人索要金钱、物品或任何敏感信息。  
+SoTap 管理组不会以任何理由**私下**向任何人索要金钱、物品或任何敏感信息。  
 
 - 管理员邮箱:<code>support@dreaming.red</code>
 
