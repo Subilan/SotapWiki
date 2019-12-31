@@ -4,19 +4,13 @@
 
 **# 当前世界「SoTap Windfall」**
 
-**服务器版本 Paper 1.15.1 Offline mode**
+服务器版本 Paper 1.15.1 **Offline mode**
 
 !>请使用 1.15.1 版本客户端登录，允许加载 Mod。  
 如需进入“潮汐”<code>SEATiDE</code>Mod服务器，须使用 1.12.2 专用客户端登录。  
 **不支持其他任何版本**
 
-作为一个 Sotap Minecraft 服务器的玩家，您可以在这里找到所有「您可能需要」的东西。较为简单基础的东西或者晦涩难懂的东西都会在这里记录，比如，您就可以在这里学到包括但不仅限于下列知识
-
-- Sotap 是个啥？
-- 如何圈地？
-- 如何进入服务器？
-- 无法进入服务器该怎么办？
-- ...
+[官网](https://sotap.org/)|[论坛](https://g.sotap.org/)|[常见问题](https://sotap.org/faq)|[新人指南](https://sotap.org/)|[游戏规则](https://sotap.org/rule)|[世界地图](http://play.sotap.org:8123)
 
 同时，我们还有一些附加的内容，比如「服务器指令大全」等，这些指令您甚至可以用于其它 Spigot 服务器。总之，您一旦有了任何问题，欢迎随时前来逛逛！
 
