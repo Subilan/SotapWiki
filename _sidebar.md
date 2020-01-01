@@ -1,16 +1,19 @@
-- [开始](index.md)
-- [服规](rules.md)
+- [开始](index.md)  
+
 - **了解**
     - [什么是 Sotap？](introduction.md)
     - [概况](overview.md)
-    - [关于 OFG](about-ofg.md)
-- **入门**
+    - [关于 OFG](about-ofg.md)  
+- **起步**
+    - [服规](rules.md)
     - [加入服务器前...](getting-started/preparation.md)
     - [加入服务器](getting-started/entering-server.md)
-    - [基础指令](getting-started/basic-commands.md)
+    - [服务器列表](getting-started/server-network.md)
+    - [常用指令大全](getting-started/basic-commands.md)
+    - [常见问题](getting-started/faq.md)
 - **论坛**
     - [介绍](forum/introduction.md)
-    - [常见问题](forum/faq.md)
+    - [论坛常见问题](forum/faq.md)
     - [Markdown 教程](forum/markdown-tutorial.md)
 - **插件使用**
     - Residence
