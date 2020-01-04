@@ -5,16 +5,24 @@
     - [概况](overview.md)
     - [关于 OFG](about-ofg.md)  
 - **起步**
-    - [游戏规则](rules.md)
     - [加入服务器前...](getting-started/preparation.md)
     - [小白入服指南](getting-started/entering-server.md)
+    - [游戏规则](rules.md)
     - [服务器列表](getting-started/server-network.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
-- **论坛**
+- **社区/论坛**
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
     - [Markdown 教程](forum/markdown-tutorial.md)
+- **SoTap Windfall**
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()
+- **EpicWorld FantasyLand**
+- **SEATiDE Independent Mode Server**
 - **插件使用**
     - Residence
         - [如何圈地？](plugins/residence/how-to-create-a-residence.md)
