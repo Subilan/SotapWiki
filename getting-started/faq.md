@@ -53,8 +53,8 @@
 ### 如何在游戏聊天内分享一条命令？
 在命令前面输入一个样式代码，比如:
 
-<code>&f/ban Remind</code>
+<code>&f/ban Remind_Z</code>
 
 那么你就可以以`聊天文本的形式`发出:
 
-<code>/ban Remind</code>
+<code>/ban Remind_Z</code>
