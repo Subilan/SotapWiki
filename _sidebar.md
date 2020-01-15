@@ -22,6 +22,7 @@
     - [世界工程](Windfall/projects)
 - **EpicWorld FantasyLand**
 - **SEATiDE Independent Mode Server**
+    - [访问 Seaweed](//wiki.seatide.net)
 - **插件使用**
     - Residence
         - [如何圈地？](plugins/residence/how-to-create-a-residence.md)
