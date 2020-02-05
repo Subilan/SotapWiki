@@ -4,13 +4,13 @@
 
 ## 当前世界「SoTap Windfall」 
 
-服务器版本 Paper 1.15.1 **Offline mode**
+服务器版本 Paper 1.15.2 **Online mode**
 
-!>请使用 1.15.1 版本客户端登录，允许加载 Mod。  
+!>请使用 1.15.2 版本客户端登录，允许加载 Mod。  
 如需进入`「潮汐 | SEATiDE」`Mod 服务器，须使用 1.12.2 专用客户端登录。  
 **不支持其他任何版本**
 
-[官网](https://sotap.org/) | [论坛](https://g.sotap.org/) | [常见问题](https://sotap.org/faq.html) | [新人指南]() | [游戏规则](https://g.sotap.org/rule.html) | [世界地图](http://play.sotap.org:8123)
+[官网](https://sotap.org/) | [论坛](https://g.sotap.org/) | [常见问题](https://wiki.sotap.org/#/getting-started/faq) | [新人指南](https://wiki.sotap.org/#/Windfall/beginners-guide) | [游戏规则](https://sotap.org/rules) | [世界地图](http://play.sotap.org:8123)
 
 同时，我们还有一些附加的内容，比如「服务器指令大全」等，这些指令您甚至可以**用于其它 Spigot 服务器**。总之，您一旦有了任何问题，欢迎随时前来逛逛！
 
