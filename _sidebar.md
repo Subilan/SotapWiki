@@ -1,4 +1,4 @@
-- **[## 开始](index.md)**
+- **[开始](index.md)**
 
 - **了解**
     - [什么是 EusMC ?](introduction.md)
