@@ -1,7 +1,7 @@
-- [开始](index.md)  
+- **[开始](index.md)**
 
 - **了解**
-    - [什么是 Sotap？](introduction.md)
+    - [什么是 EusMC ?](introduction.md)
     - [概况](overview.md)
     - [关于 OFG](about-ofg.md)  
 - **起步**
