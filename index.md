@@ -1,4 +1,4 @@
-## 开始
+# 开始
 
 欢迎来到 EusMC Wiki ! 加入EusMC服务器请先[**申请白名单**](https://sapherise.typeform.com/to/ywFa9A)。
 
@@ -6,7 +6,7 @@
 
 服务器版本 Paper 1.15.2 **Online mode**
 
-!>请使用 1.15.2 版本客户端登录，允许加载[`允许的Mod`]()
+!>请使用 1.15.2 版本客户端登录，允许加载[`允许的Mod`](https://wiki.eumc.cc/#/rules?id=%e7%a0%b4%e5%9d%8f%e6%b8%b8%e6%88%8f%e5%85%ac%e5%b9%b3)
 
 [官网](https://www.eumc.cc/) | [社区](https://club.eumc.cc/) | [常见问题](https://wiki.sotap.org/#/getting-started/faq) | [新人指南](https://wiki.sotap.org/#/Windfall/beginners-guide) | [游戏规则](https://sotap.org/rules) | [世界地图](http://play.sotap.org:8123)
 
