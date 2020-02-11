@@ -1,13 +1,13 @@
-# Sotap Wiki
+# EusMC Wiki
 
-这里是 Sotap 的官方维基文档 GitHub 仓库，目前挂载在 GitHub Pages 上，实际上使用自定义域名 <https://wiki.sotap.org>。使用 [Docsify](//docsify.js.org) 搭建，并自定义了部分布局样式。
+这里是 EusMC 的官方维基文档 GitHub 仓库，目前挂载在 GitHub Pages 上，实际上使用自定义域名 <https://wiki.eumc.cc>。使用 [Docsify](//docsify.js.org) 搭建，并自定义了部分布局样式。
 
 ## 贡献
 
-如果需要对 Wiki 内容提出修改，请直接 `clone` 以后修改相应文档的内容，发起 [Pull Request](https://github.com/Subilan/SotapWiki/pulls) 即可。本 Wiki 的目录结构：
+如果需要对 Wiki 内容提出修改，请直接 `clone` 以后修改相应文档的内容，发起 [Pull Request](https://github.com/EusMC/EusMC-Wiki/pulls) 即可。本 Wiki 的目录结构：
 
 ```tree
-Sotap Wiki
+EusMC Wiki
 │   .nojekyll
 │   changelog.md
 │   CNAME
@@ -50,4 +50,4 @@ Sotap Wiki
 
 ## 提出问题
 
-可以选择在 GitHub 的 [Issue](https://github.com/Subilan/SotapWiki/issues) 里提出或者直接在文档下的 GitTalk 评论。
+可以选择在 GitHub 的 [Issue](https://github.com/EusMC/EusMC-Wiki/issues) 里提出或者直接在文档下的 GitTalk 评论。
