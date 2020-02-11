@@ -1,8 +1,4 @@
-- **开始**
-    - [当前世界「桉树叶-地球」](https://wiki.eumc.cc/#/README?id=%e5%bd%93%e5%89%8d%e4%b8%96%e7%95%8c%e3%80%8c%e6%a1%89%e6%a0%91%e5%8f%b6-%e5%9c%b0%e7%90%83%e3%80%8d)
-    - [加入游戏](https://wiki.eumc.cc/#/README?id=%e5%8a%a0%e5%85%a5%e6%b8%b8%e6%88%8f)
-    - [联系](https://wiki.eumc.cc/#/README?id=%e8%81%94%e7%b3%bb)
-    - [参与贡献](https://wiki.eumc.cc/#/README?id=%e5%8f%82%e4%b8%8e%e8%b4%a1%e7%8c%ae)
+- **[## 开始](index.md)**
 
 - **了解**
     - [什么是 EusMC ?](introduction.md)
