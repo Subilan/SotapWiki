@@ -44,10 +44,10 @@ EusMC Wiki
 
 在要编辑页面的时候，先打开 `_sidebar.md`，在里面找到你要编辑的页面后，找到相应的文件进行编辑。`getting-started`、`others` 等目录用作文档分类用途，在路由渲染的时候会被定向为 `/#/getting-started/...`。
 
-## 路由重写
+## 特别感谢
 
-我们还是非常希望使用 `history` 的路由模式的，但是这将会用到重写功能。GitHub 为了考虑安全问题禁止了这一点，因此，在 GitHub 上托管的时期，我们均会使用 `hash` 模式进行发布。
+[Sotap](https://sotap.org)社区: 提供重要技术帮助
 
 ## 提出问题
 
-可以选择在 GitHub 的 [Issue](https://github.com/EusMC/EusMC-Wiki/issues) 里提出或者直接在文档下的 GitTalk 评论。
+可以选择在 GitHub 的 [Issue](https://github.com/EusMC/EusMC-Wiki/issues) 里提出或者直接在文档下的 GiTalk 评论。
