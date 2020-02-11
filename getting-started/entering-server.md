@@ -16,11 +16,11 @@
 
 好了，上述只是一个引子，接下来我们将介绍如何安装 Java。
 
-首先，您需要下载 Java 的安装包——就在我们的讨论群的群文件中。它的名字叫做 `jdk8u202x64.zip`，显然，它仅支持 64 位的电脑。我们下载下来以后，首先使用压缩软件**解压**。
+首先，您需要下载 Java 的安装包——在我们的群文件中。它的名字叫做 jre-8u241-windows-x64.zip，显然，它仅支持 64 位的电脑。我们下载下来以后，首先使用压缩软件**解压**。
 
 !> Sotap 不建议玩家使用 32 位架构的系统玩 Minecraft，因为实在是太卡了。您的电脑只要运行内存大于或等于 4 GB，均可以安装 64 位系统。也正因此，我们没有提供 32 位 Java 的版本。
 
-解压以后，得到的应该是一个叫做 `jdk-8u202-windows-x64.exe` 的可执行文件，这是 Java 的安装程序。打开它，可能会提示安全警告，我们选择「是」。
+解压以后，得到的应该是一个叫做 jre-8u241-windows-x64.exe 的可执行文件，这是 Java 的安装程序。打开它，可能会提示安全警告，我们选择「是」。
 
 <figure style="text-align: center">
     <img style="width: 500px" draggable="false" src="https://i.loli.net/2019/07/24/5d37ea83da1b380136.png"/>
@@ -38,19 +38,45 @@
 
 ## 启动客户端
 
-?> 👌 如果您能够自我配置客户端，请毫不犹豫地跳过此步。（我们的客户端不强制任何 Mod，您可以自己 DIY）
+?> 👌 如果您能够自我配置客户端，请毫不犹豫地跳过此步。
 
-在群文件中还有一个 `sotap.zip`，这就是我们的客户端。一样的，下载下来，解压。解压以后的目录内容应该是这样的：
+由于MOJANG AB政策原因，我们无法问您提供任何Minecraft客户端。
+
+您可以通过以下途径获得Minecraft客户端：
+
+ · 通过MOJANG AB提供的官方启动器；
+
+ · 其他渠道。
+
+获取客户端后，里面通常会有一个类似于HMCL.exe的可执行文件，点击进入它(这里以HMCL为例)
 
 <figure style="text-align: center">
-    <img style="width: 500px" draggable="false" src="https://i.loli.net/2019/07/24/5d37ed453d52228624.png"/>
-    <figcaption>分别为游戏文件夹、启动器配置和启动器</figcaption>
+    <img style="width: 500px" draggable="false" src="https://upload.cc/i1/2020/02/11/bKTMmC.png
+"/>
+    <figcaption>HMCL主页面</figcaption>
 </figure>
 
-那么这个时候我们直接打开 HMCL 启动器，不出意外的话直接开始游戏就可以加入服务器了。
+注意左上角，点击“点击此处添加账户”
 
-## 进入以后...
+<figure style="text-align: center">
+    <img style="width: 500px" draggable="false" src="https://upload.cc/i1/2020/02/11/jvkx9r.png
+"/>
+    <figcaption>点击右下角的“+”</figcaption>
+</figure>
 
-请仔细阅读[服规](/rules.md)以避免出现问题不知道如何解决；遇到其它的任何困难请时时刻刻咨询我们的管理——他们大部分时间都在。我们的管理名单可以在[这里](/about/management.md)看到。
+这时，在里面添加你的Minecraft正版账号。
 
-如果您不了解指令的使用，也可以前往[这里](/getting-started/basic-commands.md)查看一些基础的指令用法。
+<figure style="text-align: center">
+    <img style="width: 500px" draggable="false" src="https://upload.cc/i1/2020/02/11/BNJ4M3.png
+"/>
+    <figcaption>点击“开始游戏”</figcaption>
+</figure>
+
+最后，点击开始游戏即可开始玩耍w。
+
+## 进入服务器后...
+
+请仔细阅读[服规](https://wiki.eumc.cc/#/rules)以避免出现问题不知道如何解决；遇到其它的任何困难请时时刻刻咨询我们的管理——他们大部分时间都在。我们的管理名单可以在[这里](https://wiki.eumc.cc/#/operators)看到。
+
+如果您不了解指令的使用，也可以前往[这里](basic-commands.md)查看一些基础的指令用法。
+
