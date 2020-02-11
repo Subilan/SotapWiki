@@ -2,12 +2,11 @@
 
 - **了解**
     - [什么是 EusMC ?](introduction.md)
-    - [概况](overview.md)
-    - [关于 OFG](about-ofg.md)  
+    - [EusMC 管理组](operators.md)
 - **起步**
     - [加入服务器前...](getting-started/preparation.md)
     - [小白入服指南](getting-started/entering-server.md)
-    - [游戏规则](rules.md)
+    - [规章制度](rules.md)
     - [服务器列表](getting-started/server-network.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
