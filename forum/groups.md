@@ -31,7 +31,7 @@ QQ 主群。多种话题（大概也许可能偶尔会讨论 Minecraft）。通�
 
 ### Discord
 
-- SoTap (OFG)
+- SoTap（OFG）
 
 SoTap的 Discord Server。包含一个与游戏互通聊天的频道和其他闲聊和语音频道。
 
