@@ -11,7 +11,10 @@
     - [服务器列表](getting-started/server-network.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
-- **社区/论坛**
+- **社区**
+    - [玩家群组](forum/groups.md)
+    - [居民申请说明](forum/application.md)
+- **论坛**
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
     - [Markdown 教程](forum/markdown-tutorial.md)
