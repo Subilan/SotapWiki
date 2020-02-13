@@ -1,5 +1,3 @@
-- **[开始](index.md)**
-
 - **了解**
     - [什么是 EusMC ?](introduction.md)
     - [EusMC 管理组](operators.md)
