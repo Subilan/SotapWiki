@@ -18,17 +18,19 @@
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
     - [Markdown 教程](forum/markdown-tutorial.md)
-- **SoTapWorld Windfall**
+- **Windfall**
     - [新人指南](Windfall/beginners-guide.md)
     - [城镇据点](Windfall/realms)
     - [世界工程](Windfall/projects)
+<!--暂未开放
 - **EpicWorld FantasyLand**
-- **SEATiDE Independent Mode Server**
-    - [访问 Seaweed](//wiki.seatide.net)
+-->
+<!-- 失效项目
 - **插件使用**
     - Residence
         - [如何圈地？](plugins/residence/how-to-create-a-residence.md)
     - [服务器插件一览](plugins/all.md)
+-->
 - **附加内容**
     - [指令格式](others/command-format.md)
     - [指令大全(玩家篇)](others/commands-for-players.md)
