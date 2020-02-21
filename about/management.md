@@ -62,12 +62,12 @@ SoTap 目前需要技术人员的加入（即非服务器管理员），您可�
         import Vue from 'vue';
         Vue.use(Component1);
         Vue.use(Component2);
-        Vue.use(Component3)`
+        Vue.use(Component3);
         // 可以简写为？
     </script>
     ```
     - 检验：
-    ```less
+    ```css
     .container {
         & {
             position: relative;
