@@ -4,50 +4,22 @@
 
 ## 贡献
 
-如果需要对 Wiki 内容提出修改，请直接 `clone` 以后修改相应文档的内容，发起 [Pull Request](https://github.com/Subilan/SotapWiki/pulls) 即可。本 Wiki 的目录结构：
+本 Wiki 面向所有 Minecraft 玩家开放 Pull Request。如果您对本 Wiki 的内容有任何好的建议，欢迎 Fork 后修改然后提出 PR，我们会及时给您答复。在贡献时，需要注意以下几点：
 
-```tree
-Sotap Wiki
-│   .nojekyll
-│   changelog.md
-│   CNAME
-│   common-problems.md
-│   custom.css
-│   index.html
-│   index.md
-│   introduction.md
-│   overview.md
-│   README.md
-│   rules.md
-│   _404.md
-│   _sidebar.md
-│
-├───getting-started
-│       basic-commands.md
-│       entering-server.md
-│       preparation.md
-│
-└───others
-        commands-for-players.md
-```
-|文件名称|用途|
-|:-:|:-:|
-|`.nojekll`|阻止 GitHub 在渲染时忽略掉以 `_` 开头的文件|
-|`CNAME`|GitHub 的自定义域名配置，一般不修改|
-|`custom.css`|页面的自定义布局样式，可以添加一些自有的样式|
-|`index.html`|整个文档的入口页面和 Docsify 的配置位置，可以在这里配置 Docsify|
-|`README.md`|GitHub README|
-|`_404.md`|404 页面|
-|`_sidebar.md`|侧边栏，可以在这里找到文档中的所有文章|
-
-其余的均为文档。文档列表可以在 `_sidebar.md` 里面找到。
-
-在要编辑页面的时候，先打开 `_sidebar.md`，在里面找到你要编辑的页面后，找到相应的文件进行编辑。`getting-started`、`others` 等目录用作文档分类用途，在路由渲染的时候会被定向为 `/#/getting-started/...`。
-
-## 路由重写
-
-我们还是非常希望使用 `history` 的路由模式的，但是这将会用到重写功能。GitHub 为了考虑安全问题禁止了这一点，因此，在 GitHub 上托管的时期，我们均会使用 `hash` 模式进行发布。
+- 语言风格要合适。一般情况下无需考虑这一点，但是差别太大也不好。
+- 中文与英文、数字之间需要空格。保持文字规范性，这是 SoTapWiki 的宗旨。
+- **SoTap** 书写规范。这一点不作硬性要求，但是请尽量保证。
 
 ## 提出问题
 
 可以选择在 GitHub 的 [Issue](https://github.com/Subilan/SotapWiki/issues) 里提出或者直接在文档下的 GitTalk 评论。
+
+## 关于 SoTap Wiki
+
+SoTapWiki 是一个开源的维基项目，目前由 SoTap 开发组维护。一般来说，SoTap Wiki 遵循 MIT 协议，允许任何情况下的二次创作。因此，您完全可以把此 Wiki 作为您创作 Wiki 的现成模板。
+
+**为什么我在 SoTap Wiki 里看到了一些与喵窝 Wiki 类似的语言？**因为喵窝是我们~~崇拜的对象~~，Wiki 上的确有部分内容来源于喵窝的 Wiki，但是我们仍然以原创为主。来源于喵窝 Wiki 上的内容，一般是通用于所有类似服务器的。
+
+## 协议
+
+MIT
