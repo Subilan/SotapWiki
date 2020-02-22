@@ -76,7 +76,7 @@ SoTap 目前需要技术人员的加入（即非服务器管理员），您可�
         & > .box {
             position: relative;
             display: block;
-            &+.box-2 {
+            & + .box-2 {
                 display: none;
             }
         } 
@@ -120,7 +120,7 @@ SoTap 目前需要技术人员的加入（即非服务器管理员），您可�
 
     import org.bukkit.plugin.java.JavaPlugin;
 
-    public final class {$PluginName} extends JavaPlugin {
+    public final class example extends JavaPlugin {
         @Override
         public void onEnable() {
             System.out.println("I'm now enabled!");
