@@ -12,7 +12,7 @@
 
 ## 提出问题
 
-可以选择在 GitHub 的 [Issue](https://github.com/Subilan/SotapWiki/issues) 里提出或者直接在文档下的 GitTalk 评论。
+可以选择在 GitHub 的 [Issue](https://github.com/sotapmc/SotapWiki/issues) 里提出。
 
 ## 关于 SoTap Wiki
 
