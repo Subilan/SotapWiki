@@ -107,7 +107,7 @@ SoTap 目前需要技术人员的加入（即非服务器管理员），您可�
     let xhr = new XMLHttpRequest();
     xhr.open("get", "/main.php");
     xhr.send(null);
-    xhr.onreadystatechange(r => {
+    xhr.onreadystatechange = r => {
         if (r === xhr.DONE) {
             console.log(r);
         }
