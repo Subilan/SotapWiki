@@ -12,7 +12,7 @@
 
 [官网](https://sotap.org/) | [论坛](https://g.sotap.org/) | [常见问题](https://wiki.sotap.org/#/getting-started/faq) | [新人指南](https://wiki.sotap.org/#/Windfall/beginners-guide) | [游戏规则](https://sotap.org/rules) | [世界地图](http://play.sotap.org:2333)
 
-同时，我们还有一些附加的内容，比如「[服务器指令大全](basic-commands.md)」等，这些指令您甚至可以**用于其它 Spigot 服务器**。总之，您一旦有了任何问题，欢迎随时前来逛逛！
+同时，我们还有一些附加的内容，比如「[服务器指令大全](getting-started/basic-commands.md)」等，这些指令您甚至可以**用于其它 Spigot 服务器**。总之，您一旦有了任何问题，欢迎随时前来逛逛！
 
 ## 加入游戏  
 服务器地址：
