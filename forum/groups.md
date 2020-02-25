@@ -5,13 +5,13 @@
 
 ## Telegram
 
-- `sotapdev`
+### `sotapdev`
 
 [点击加入](//t.me/sotapdev)
 
 SoTap 社区的 Telegram 公开频道，用于发布一些有关于 SoTap 的发展信息。
 
-- `sotap_windfall`
+### `sotap_windfall`
 
 [点击加入](//t.me/sotap_windfall)
 
