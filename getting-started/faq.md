@@ -31,7 +31,6 @@ SoTap已经开启正版验证，不需要 `/login` 命令。只需确认已经�
 
 附上 [ItemsAdder 官方 Wiki](https://lonedev.gitbook.io/itemsadder/) 供玩家查阅。
 
-?> 💪 简明的插件教程正在制作中。
 
 !>由于种种原因，**服务器禁止了部分物品的合成**，可以通过询问服主或其他玩家获取相关信息。
 
