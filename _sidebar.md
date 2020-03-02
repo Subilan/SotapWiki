@@ -26,6 +26,8 @@
     - [指令格式](others/command-format.md)
     - [指令大全(玩家篇)](others/commands-for-players.md)
     - [指令大全(OP 篇)](others/commands-for-operators.md)
+- **插件翻译**
+    - [空岛插件翻译](Plugin/IslandTranslation/menu.md)
 - **关于**
     - [贡献者名单](/contributor.md)
     - [管理组介绍](about/management.md)
