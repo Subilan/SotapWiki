@@ -27,8 +27,9 @@
     - [指令大全(玩家篇)](others/commands-for-players.md)
     - [指令大全(OP 篇)](others/commands-for-operators.md)
 - **关于**
+    - []
     - [管理组介绍](about/management.md)
     - [技术信息](about/technical-information.md)
-- [更新日志](changelog.md)
+- [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
 - [反馈问题](https://g.sotap.org/t/development)
     
