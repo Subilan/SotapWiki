@@ -10,6 +10,8 @@
 - 中文与英文、数字之间需要空格。保持文字规范性，这是 SoTapWiki 的宗旨。
 - **SoTap** 书写规范。这一点不作硬性要求，但是请尽量保证。
 
+如果您对使用 GitHub 具有一定的困难而仍然想要进行修改的，可以参考我们的[这个帖子](https://g.sotap.org/d/82)中的内容继续（需要先加入 SoTap）。
+
 ## 提出问题
 
 可以选择在 GitHub 的 [Issue](https://github.com/sotapmc/SotapWiki/issues) 里提出。
