@@ -24,8 +24,10 @@
     - [世界工程](Windfall/projects)
 - **附加内容**
     - [指令格式](others/command-format.md)
-    - [指令大全(玩家篇)](others/commands-for-players.md)
+    - [指令大全(主服篇)](others/commands-for-players.md)
+    - [指令大全(空岛篇)](others/commands-for-skyblock.md)
     - [指令大全(OP 篇)](others/commands-for-operators.md)
+    - [付费项目](extra.md)
 - **插件翻译**
     - [空岛插件翻译](Plugin/IslandTranslation/menu.md)
 - **关于**
