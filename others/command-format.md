@@ -11,8 +11,8 @@
 /command <required> [optional]
 ```
 
-其中，`command` 叫做这个指令的**指令头**，代表着这个指令的用途；紧随其后，以空格为分隔的，叫做**参数（Argument）**。参数分为**可选参数（Optional Argument）**和**必填参数（Required Argument）**。
-可选参数使用符号 `[参数名]` 标示，必填参数使用 `<参数名>`。
+其中，`command` 叫做这个指令的**指令头**，代表着这个指令的用途；紧随其后，以空格为分隔的，叫做**参数（Argument）**。参数分为 **可选参数（Optional Argument）** 和 **必填参数（Required Argument）**。
+可选参数使用符号 `[参数名]` 表示，必填参数使用 `<参数名>` 表示。
 
 举个例子：
 ```minecraft
