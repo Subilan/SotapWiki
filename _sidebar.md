@@ -24,6 +24,7 @@
     - [世界工程](Windfall/projects)
 - **附加内容**
     - [指令格式](others/command-format.md)
+    - [hamsterecohelper](others/hamsterecohelper.md)
     - [指令大全(主服篇)](others/commands-for-players.md)
     - [指令大全(空岛篇)](others/commands-for-skyblock.md)
     - [指令大全(OP 篇)](others/commands-for-operators.md)
