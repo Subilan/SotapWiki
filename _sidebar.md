@@ -30,7 +30,7 @@
     - [付费项目](extra.md)
 - **插件相关**
     - [HamsterEcoHelper](plugins/hamsterecohelper-guide.md)
-    - [Residence](plugins/residence-commands.md
+    - [Residence](plugins/residence-commands.md)
 - **关于**
     - [贡献者名单](/contributor.md)
     - [管理组介绍](about/management.md)
