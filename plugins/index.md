@@ -14,4 +14,4 @@
 
 此分类仅介绍相对于整个服务器玩法较为凸显「附属性」的插件。例如我们会在这里编写领地插件 Residence 的指令，但并不会编写 EssentialsX 的指令，因为它太广泛了。
 
-同样，对于空岛服务器，IridiumSkyblock 是核心插件，但我们不会将其收录于此，而是单独地放在[指令大全(空岛篇)](/others/command-for-skyblock.md)
+同样，对于空岛服务器，IridiumSkyblock 是核心插件，但我们不会将其收录于此，而是单独地放在[指令大全(空岛篇)](/others/commands-for-skyblock.md)。
