@@ -5,7 +5,7 @@
 ## 详细说明
 
 ### 精灵等级划分
-远古的精灵宗族就像古代时候人类社会一样分三六九等，精灵有5个等级划分：
+远古的精灵宗族就像古代时候人类社会一样分三六九等，精灵有5个等级划分：   
 1.`Common`:普通  
 2.`Rare`：稀有  
 3.`Super Rare`：极稀有  
@@ -19,17 +19,36 @@
 这里会列出当前发现的所有精灵，并按照其品质等级分类列举。
 
 **普通**
-1.`Rabbit`兔精灵    
-2.`Bee`蜂精灵    
-3.`Ladybug`瓢虫精灵   
-4.`Pig`猪精灵    
-5.`Fish`鱼精灵    
-6.`Cake`点心精灵    
-7.`Cat`猫精灵
+
+1.`Rabbit`兔    
+2.`Bee`蜂    
+3.`Ladybug`瓢虫   
+4.`Pig`猪    
+5.`Fish`鱼    
+6.`Cake`点心    
+7.`Cat`猫
 
 **稀有**
-1.`Horned Beetle`甲虫精灵   
-2.`Baby Chick`鸡宝精灵   
-3.`Villager`村民精灵   
-4.`Crafting Table`合成台精灵   
-5.`Enderchest`末影箱精灵
+
+1.`Horned Beetle`甲虫   
+2.`Baby Chick`鸡宝   
+3.`Villager`村民   
+4.`Crafting Table`合成台   
+5.`Enderchest`末影箱
+
+**极稀有**
+
+1.`Mr Penguin`企鹅   
+2.`Magnet`磁铁   
+3.`Enderman`末影人
+
+**传奇**
+
+1.`Lion`狮子  
+2.`Giraffe`长颈鹿   
+3.`Knight`骑士
+
+**神秘**
+
+1.`Unicorn`独角兽   
+2.`Gamer`游戏者
