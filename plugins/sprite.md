@@ -1,6 +1,6 @@
 # 神秘精灵
 
-它来自远古，拥有神奇的魔力。带给玩家神秘的加成以及更多！
+它来自远古，拥有神奇的魔力。带给玩家神秘的加成以及更多！它们以方块的形式存在，这使得他们可以摆放，和随身携带，极具收藏价值。
 
 ## 详细说明
 
@@ -19,10 +19,17 @@
 这里会列出当前发现的所有精灵，并按照其品质等级分类列举。
 
 **普通**
-1.Rabbit Pet
-2.Bee Pet
-3.Ladybug Pet
-4.Pig Pet
-5.Fish Pet
-6.Cake Pet
-7.Cat Pet
+1.`Rabbit`兔精灵    
+2.`Bee`蜂精灵    
+3.`Ladybug`瓢虫精灵   
+4.`Pig`猪精灵    
+5.`Fish`鱼精灵    
+6.`Cake`点心精灵    
+7.`Cat`猫精灵
+
+**稀有**
+1.`Horned Beetle`甲虫精灵   
+2.`Baby Chick`鸡宝精灵   
+3.`Villager`村民精灵   
+4.`Crafting Table`合成台精灵   
+5.`Enderchest`末影箱精灵
