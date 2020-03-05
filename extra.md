@@ -35,8 +35,10 @@
 - 自动合成机械使用权限
 
 - 精炼分解使用权限
+
+- 附魔书附魔选择性使用
  
-- 免税特权
+- 部分指令免费特权
 
 #### 自动合成机械
 
@@ -56,13 +58,30 @@
 
 附魔书的分解无视耐久，都将被保留。在野外生存拓展包有效期内，输入`/menu`打开菜单，点击对应的按钮，即可使用精炼分解。
 
-#### 免税特权
+#### 附魔书附魔选择性使用
+通过分发给玩家特别定制的附魔书，玩家们可以用这些附魔书进行自定义的附魔。例如消耗附魔书中的精准附魔给手中的镐子。
 
-- 在牌子商店进行交易时免除税费
+它拥有四种不同的结果：
 
-- 在`/heh`中的交易免除税费
+- `chanceSuccess` - 移除当前附魔书当中的该附魔，并向附魔物品上附上相应等级的附魔。
+- `chanceModerate` - 移除当前附魔书当中的该附魔，并向附魔物品上附上相应等级**一半**的附魔。
+- `chanceFail` - 移除当前附魔书当中的该附魔，也不会向附魔物品上附上任何附魔。
+- `chanceDestroy` - 移除当前附魔书当中的该附魔，并毁坏掉当前附魔的物品。
 
-- 除`/setwarp`以外的所有收费指令免费
+!> 当前，`chanceSuccess` 的机率暂定为100%
+
+##### 如何使用？
+**As player**
+1.Hold the enchanted book that has been added into enchant source list in **off hand**.
+2.Hold the item to be enchanted, in **main hand**.
+3.Type `/nu enchantinfo` to see available enchantments (names and max allowed level), result possibilities and cool down status. This step 4.is optional.
+5.To enchant `DAMAGE_ALL` level 5 to item in main hand, type `/nu enchant DAMAGE_ALL 5`.
+#### 部分指令免费特权
+
+- `/warp`
+- `/tpa`
+- `/tphere`
+- `/weather`
 
 !> `/setwarp` 所设置的传送点全服通用且永久存在，因此我们无法向您免费开放其权限。
 
