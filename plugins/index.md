@@ -9,6 +9,7 @@
 - [HamsterEcoHelper 向导](hamsterecohelper-guide.md)
 - [mcMMO 指令](mcmmo-commands.md)
 - [Residence 指令](residence-commands.md)
+- [神秘精灵介绍](sprite.md)
 
 ## 添加规范
 
