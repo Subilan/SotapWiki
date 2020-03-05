@@ -73,9 +73,12 @@
 ##### 如何使用？
 **As player**  
 
-1.Hold the enchanted book that has been added into enchant source list in **off hand**.   
-2.Hold the item to be enchanted, in **main hand**.   
-3.Type `/nu enchantinfo` to see available enchantments (names and max allowed level), result possibilities and cool down status. This step is optional.    
+1.Hold the enchanted book that has been added into enchant source list in **off hand**.  
+
+2.Hold the item to be enchanted, in **main hand**.  
+
+3.Type `/nu enchantinfo` to see available enchantments (names and max allowed level), result possibilities and cool down status. This step is optional.  
+
 4.To enchant `DAMAGE_ALL` level 5 to item in main hand, type `/nu enchant DAMAGE_ALL 5`.
 
 **As Op**
