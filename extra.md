@@ -71,11 +71,17 @@
 !> 当前，`chanceSuccess` 的机率暂定为100%
 
 ##### 如何使用？
-**As player**
-1.Hold the enchanted book that has been added into enchant source list in **off hand**.
-2.Hold the item to be enchanted, in **main hand**.
-3.Type `/nu enchantinfo` to see available enchantments (names and max allowed level), result possibilities and cool down status. This step 4.is optional.
+**As player**  
+
+1.Hold the enchanted book that has been added into enchant source list in **off hand**.  
+2.Hold the item to be enchanted, in **main hand**.  
+3.Type `/nu enchantinfo` to see available enchantments (names and max allowed level), result possibilities and cool down status. This step 4.is optional.  
 5.To enchant `DAMAGE_ALL` level 5 to item in main hand, type `/nu enchant DAMAGE_ALL 5`.
+
+**As Op**
+
+1.Customize an enchanted book in name or lore, or both. Note the plugin will only check if item id, damage value, name and lore all exactly match, but not enchants stored. This makes one enchanted book with multiple enchants can be used for multiple times.  
+2.Hold the book and type `/nu addenchantsrc`
 #### 部分指令免费特权
 
 - `/warp`
