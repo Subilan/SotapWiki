@@ -20,7 +20,7 @@
 
 !> Sotap 不建议玩家使用 32 位架构的系统玩 Minecraft，因为实在是太卡了。您的电脑只要运行内存大于或等于 4 GB，均可以安装 64 位系统。也正因此，我们没有提供 32 位 Java 的版本。
 
-解压以后，得到的应该是一个叫做 jre-8u241-windows-x64.exe 的可执行文件，这是 Java 的安装程序。打开它，可能会提示安全警告，我们选择「是」。
+解压以后，得到的应该是一个叫做 `jre-8u241-windows-x64.exe` 的可执行文件，这是 Java 的安装程序。打开它，可能会提示安全警告，我们选择「是」。
 
 <figure style="text-align: center">
     <img style="width: 500px" draggable="false" src="https://i.loli.net/2019/07/24/5d37ea83da1b380136.png"/>
@@ -40,20 +40,20 @@
 
 ?> 👌 如果您能够自我配置客户端，请毫不犹豫地跳过此步。
 
-由于MOJANG AB政策原因，我们无法问您提供任何Minecraft客户端。
+由于 MOJANG AB 政策原因，我们无法问您提供任何 Minecraft 客户端。
 
-您可以通过以下途径获得Minecraft客户端：
+您可以通过以下途径获得 Minecraft 客户端：
 
- · 通过MOJANG AB提供的官方启动器；
+ · 通过 MOJANG AB 提供的官方启动器；
 
  · 其他渠道。
 
-获取客户端后，里面通常会有一个类似于HMCL.exe的可执行文件，点击进入它(这里以HMCL为例)
+获取客户端后，里面通常会有一个类似于 `HMCL.exe` 的可执行文件，点击进入它(这里以 HMCL 为例)
 
 <figure style="text-align: center">
     <img style="width: 500px" draggable="false" src="https://upload.cc/i1/2020/02/11/bKTMmC.png
 "/>
-    <figcaption>HMCL主页面</figcaption>
+    <figcaption>HMCL 主页面</figcaption>
 </figure>
 
 注意左上角，点击“点击此处添加账户”
@@ -64,7 +64,7 @@
     <figcaption>点击右下角的“+”</figcaption>
 </figure>
 
-这时，在里面添加你的Minecraft正版账号。
+这时，在里面添加你的 Minecraft 正版账号。
 
 <figure style="text-align: center">
     <img style="width: 500px" draggable="false" src="https://upload.cc/i1/2020/02/11/BNJ4M3.png
