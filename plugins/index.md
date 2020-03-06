@@ -6,11 +6,11 @@
 
 目前已经编写的插件有：
 
-- [HamsterEcoHelper 向导](hamsterecohelper-guide.md)
-- [mcMMO 指令](mcmmo-commands.md)
-- [Residence 指令](residence-commands.md)
-- [神秘精灵介绍](sprite.md)
-- [Capcat使用指南](capcat.md)
+- [HamsterEcoHelper 向导](/plugins/hamsterecohelper-guide.md)
+- [mcMMO 指令](/plugins/mcmmo-commands.md)
+- [Residence 指令](/plugins/residence-commands.md)
+- [神秘精灵介绍](/plugins/sprite.md)
+- [Capcat使用指南](/plugins/capcat.md)
 ## 添加规范
 
 此分类仅介绍相对于整个服务器玩法较为凸显「附属性」的插件。例如我们会在这里编写领地插件 Residence 的指令，但并不会编写 EssentialsX 的指令，因为它太广泛了。
