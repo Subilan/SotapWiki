@@ -34,7 +34,7 @@
     - [Residence](plugins/residence-commands.md)
     - [mcMMO](plugins/mcmmo-commands.md)
     - [精灵图鉴](plugins/sprite.md)
-    - [Capcat传送牌](plugins/capcat.md)
+    - [Capcat 传送牌](plugins/capcat.md)
 - **关于**
     - [加入我们](/contributor.md)
     - [管理组介绍](about/management.md)
