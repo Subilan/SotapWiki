@@ -36,7 +36,7 @@
     - [精灵图鉴](plugins/sprite.md)
     - [Capcat传送牌](plugins/capcat.md)
 - **关于**
-    - [贡献者名单](/contributor.md)
+    - [加入我们](/contributor.md)
     - [管理组介绍](about/management.md)
     - [技术信息](about/technical-information.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
