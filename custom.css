@@ -1,6 +1,7 @@
 table {
-    width: fit-content !important;
     margin: auto;
+    overflow: scroll;
+    display: block;
 }
 
 a {
