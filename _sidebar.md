@@ -29,7 +29,7 @@
     - [指令大全(主服篇)](others/commands-for-players.md)
     - [指令大全(空岛篇)](others/commands-for-skyblock.md)
     - [指令大全(OP 篇)](others/commands-for-operators.md)
-    - [付费项目](extra.md)
+    - [赞助套餐](extra.md)
 - **插件相关**
     - [概述](plugins/index.md)
     - [HamsterEcoHelper](plugins/hamsterecohelper-guide.md)
