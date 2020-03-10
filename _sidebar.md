@@ -20,7 +20,7 @@
     - [Markdown 教程](forum/markdown-tutorial.md)
 - **Windfall**
     - [新人指南](Windfall/beginners-guide.md)
-    - [经济体系](Windfall/Economic.md)
+    - [经济体系](Windfall/economy.md)
     - [如何挣钱](Windfall/howToMakeMoney1.0.1.md)
     - [城镇据点](Windfall/realms)
     - [世界工程](Windfall/projects)
