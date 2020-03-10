@@ -8,7 +8,7 @@
     - [加入服务器前...](getting-started/preparation.md)
     - [小白入服指南](getting-started/entering-server.md)
     - [游戏规则](rules.md)
-    - [如何挣钱](/getting-started/howToMakeMoney1.0.0.md)
+    - [如何挣钱](/getting-started/howToMakeMoney1.0.1.md)
     - [服务器列表](getting-started/server-network.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
@@ -22,7 +22,7 @@
 - **Windfall**
     - [新人指南](Windfall/beginners-guide.md)
     - [经济体系](Windfall/Economic.md)
-    - [如何挣钱](Windfall/howToMakeMoney1.0.0.md)
+    - [如何挣钱](Windfall/howToMakeMoney1.0.1.md)
     - [城镇据点](Windfall/realms)
     - [世界工程](Windfall/projects)
 - **附加内容**
