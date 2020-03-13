@@ -1,6 +1,6 @@
 # 所有格式测试
 
-若要查看这些格式是如何得出的，请[浏览源码](https://github.com/sotapmc/SotapWiki/blob/master/others/format.md)。
+若要查看这些格式是如何得出的，请[浏览源码](https://github.com/sotapmc/SotapWiki/blob/master/others/formats.md)。
 
 !> 本条目下的内容只能保证在本 Wiki 上有效
 
