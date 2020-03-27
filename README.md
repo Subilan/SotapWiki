@@ -1,6 +1,6 @@
 # SoTap Wiki
 
-这里是 SoTap 的官方维基文档 GitHub 仓库，目前挂载在 GitHub Pages 上，实际上使用自定义域名 <https://wiki.sotap.org>。使用 [Docsify](//docsify.js.org) 搭建，并自定义了部分布局样式。
+这里是 SoTap 的官方维基文档 GitHub 仓库，由于 GitHub Pages 存在不稳定情况，目前我们已经迁移至阿里云主机，域名为 <https://wiki.sotap.org>。本 Wiki 使用 [Docsify](//docsify.js.org) 搭建，并自定义了部分布局样式。
 
 ## 贡献
 
