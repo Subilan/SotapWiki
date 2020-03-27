@@ -27,7 +27,9 @@
 			nameLink: '/',
 			repo: 'https://github.com/sotapmc/SotapWiki',
 			loadSidebar: true,
-			notFoundPage: '_404.md',
+			notFoundPage: {
+				'/' : '_404.md',
+			},
 			noEmoji: false,
 			auto2top: true,
 			homepage: 'index.md',
@@ -40,7 +42,9 @@
 					})
 				}
 			],
-			subMaxLevel: 2
+			subMaxLevel: 2,
+			autoHeader: true,
+			basePath: '/'
 		};
 	</script>
         <script src="//unpkg.com/docsify-copy-code"></script>
