@@ -22,14 +22,15 @@
 	<div id="app"></div>
 	<script>
 		window.$docsify = {
-			routerMode: 'hash',
+			routerMode: 'history',
+			alias: {
+      				'/.*/_sidebar.md': '/_sidebar.md',
+				'/.*/_404.md': '/_404.md'
+    			},
 			name: 'Sotap Wiki',
 			nameLink: '/',
 			repo: 'https://github.com/sotapmc/SotapWiki',
 			loadSidebar: true,
-			notFoundPage: {
-				'/' : '_404.md',
-			},
 			noEmoji: false,
 			auto2top: true,
 			homepage: 'index.md',
