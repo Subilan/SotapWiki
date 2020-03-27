@@ -2,7 +2,6 @@
 
 - **了解**
     - [什么是 SoTap？](introduction.md)
-    - [概况](overview.md)
     - [关于 OFG](about-ofg.md)  
 - **起步**
     - [加入服务器前...](getting-started/preparation.md)
