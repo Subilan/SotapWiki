@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<title>SoTapWiki</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<meta name="description" content="Description">
+	<meta name="description" content="SoTap 官方维基项目，用于查找与服务器有关的资料。">
 	<meta name="viewport"
 		content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
@@ -22,15 +22,15 @@
 	<div id="app"></div>
 	<script>
 		window.$docsify = {
-			routerMode: 'history',
+			routerMode: 'hash',
 			name: 'Sotap Wiki',
 			nameLink: '/',
 			repo: 'https://github.com/sotapmc/SotapWiki',
-			loadSidebar: "https://wiki.sotap.org/_sidebar.md",
-			notFoundPage: 'https://wiki.sotap.org/_404.md',
+			loadSidebar: "_sidebar.md",
+			notFoundPage: '_404.md',
 			noEmoji: false,
 			auto2top: true,
-			homepage: 'https://wiki.sotap.org/index.md',
+			homepage: 'index.md',
 			plugins: [
 				function (hook) {
 					hook.doneEach(function () {
@@ -68,7 +68,7 @@
 	</script>
 	<script>
 		if (typeof navigator.serviceWorker !== 'undefined') {
-			navigator.serviceWorker.register('/sw.js')
+			navigator.serviceWorker.register('sw.js')
 		}
 	</script>
 </body>
