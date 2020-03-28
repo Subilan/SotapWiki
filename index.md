@@ -1,6 +1,6 @@
 # 开始
 
-欢迎来到 Sotap Wiki(发音 `/'wɪkɪ/`，维基)！加入社区请先[**申请白名单**](https://wiki.sotap.org/#/forum/application)。
+欢迎来到 Sotap Wiki(发音 `/'wɪkɪ/`，维基)！加入社区请先[**申请白名单**](https://wiki.sotap.org/forum/application)。
 
 ## 当前世界「SoTap Windfall」 
 
