@@ -34,26 +34,26 @@ HamsterEcoHelper (仓鼠症插件) 是为促进服务器经济流动的辅助性
 
 ## 指令列表
 
-以下指令分为**指令全名**和**短命令**。前者在使用的时候需要在前面加上 `/heh`，后者则不需要。简单分辨就是指令名称不带`/` 的是**指令全名**，需要在前面加上 `/heh`；指令名称带`/` 的是**短命令**。
+以下指令分为**指令全名**和**短命令**。前者在使用的时候需要在前面加上 `/heh`，后者则不需要。
 
-|指令名称|参数|含义|
-|:-:|:-:|:-:|
-|`requisition`，<br>`/hreq` | <物品ID \|`hand`> <单价> <数量> | 发起征购 |
-|`requisition sell`，<br>`/hsell`|[数量]|响应征购|
-|`auction auc`，<br>`/hauc` | <起步价> <步进价> [保留价] | 发起拍卖，拍卖手中的（所有）物品 |
-|`auction bid`，<br>`/hbid`| [价格] | 拍卖竞价 |
-|`shop sell` | <单价> | 将手中的（所有）物品上架至木牌商店销售 |
-|`shop buy` | <单价> | 将手中的（所有）物品上架至木牌商店收购 |
-|`shop storage set` | 无 | 指定一个箱子作为收购物品的存储 |
-|`shop storage info` | 无 | 查找自己的存储箱 |
-|`shop lotto set` | 无 | 指定一个箱子作为装有抽奖物品的箱子 |
-|`shhop lotto info` | 无 | 查找自己装有抽奖物品的箱子 |
-|`search` | 见下 | 搜索木牌商店的物品 | 
-|`searchpage` | <页数> | 翻页 |
-|`transaction sellto`，<br>`/hsellto` |<玩家名> <单价> | 手持所售物品创建点对点交易 |
-|`transaction pay`，<br>`/hpay`|<账单 ID>| 支付账单 |
-|`transaction cancel` | <账单 ID> | 取消账单 |
-|`ads add`|<广告内容> <展示次数> | 发布广告 |
+|指令全名|短命令|参数|含义|
+|:-:|:-:|:-:|:-:|
+|`requisition` | `/hreq` | <物品ID \|`hand`> <单价> <数量> | 发起征购 |
+|`requisition sell` | `/hsell` | [数量] | 响应征购 |
+|`auction auc` | `/hauc` | <起步价> <步进价> [保留价] | 发起拍卖，拍卖手中的（所有）物品 |
+|`auction bid` | `/hbid` | [价格] | 拍卖竞价 |
+|`shop sell` |  | <单价> | 将手中的（所有）物品上架至木牌商店销售 |
+|`shop buy` |  | <单价> | 将手中的（所有）物品上架至木牌商店收购 |
+|`shop storage set` |  | 无 | 指定一个箱子作为收购物品的存储 |
+|`shop storage info` |  | 无 | 查找自己的存储箱 |
+|`shop lotto set` |  | 无 | 指定一个箱子作为装有抽奖物品的箱子 |
+|`shhop lotto info` |  | 无 | 查找自己装有抽奖物品的箱子 |
+|`search` |  | 见下 | 搜索木牌商店的物品 | 
+|`searchpage` |  | <页数> | 翻页 |
+|`transaction sellto` | `/hsellto` | <玩家名> <单价> | 手持所售物品创建点对点交易 |
+|`transaction pay` | `/hpay` | <账单 ID> | 支付账单 |
+|`transaction cancel` |  | <账单 ID> | 取消账单 |
+|`ads add` |  | <广告内容> <展示次数> | 发布广告 |
 
 ## 如何使用？
 
