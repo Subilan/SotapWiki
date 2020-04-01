@@ -2,7 +2,6 @@
 
 - **了解**
     - [什么是 SoTap？](introduction.md)
-    - [概况](overview.md)
     - [关于 OFG](about-ofg.md)  
 - **起步**
     - [加入服务器前...](getting-started/preparation.md)
@@ -20,17 +19,29 @@
     - [Markdown 教程](forum/markdown-tutorial.md)
 - **Windfall**
     - [新人指南](Windfall/beginners-guide.md)
+    - [经济体系](Windfall/economy.md)
+    - [如何挣钱](Windfall/howToMakeMoney.md)
     - [城镇据点](Windfall/realms)
     - [世界工程](Windfall/projects)
 - **附加内容**
     - [指令格式](others/command-format.md)
-    - [指令大全(玩家篇)](others/commands-for-players.md)
+    - [指令大全(主服篇)](others/commands-for-players.md)
+    - [指令大全(空岛篇)](others/commands-for-skyblock.md)
     - [指令大全(OP 篇)](others/commands-for-operators.md)
-- **插件翻译**
-    - [空岛插件翻译](Plugin/IslandTranslation/menu.md)
+    - [赞助套餐](extra.md)
+- **插件相关**
+    - [概述](plugins/index.md)
+    - [HamsterEcoHelper](plugins/hamsterecohelper-guide.md)
+    - [Residence](plugins/residence-commands.md)
+    - [mcMMO](plugins/mcmmo-commands.md)
+    - [精灵图鉴](plugins/sprite.md)
+    - [Capcat 传送牌](plugins/capcat.md)
+    - [NyaaUtils](plugins/nyaautils.md)
+- **玩家列表**
+    - [概述](players/index.md)
 - **关于**
-    - [贡献者名单](/contributor.md)
-    - [管理组介绍](about/management.md)
+    - [加入 Wiki 项目](/contributor.md)
+    - [加入管理组](about/management.md)
     - [技术信息](about/technical-information.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
 - [反馈问题](https://g.sotap.org/t/development)

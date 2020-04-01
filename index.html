@@ -5,12 +5,13 @@
 	<meta charset="UTF-8">
 	<title>SoTapWiki</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-	<meta name="description" content="Description">
+	<meta name="description" content="SoTap 官方维基项目，用于查找与服务器有关的资料。">
 	<meta name="viewport"
 		content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 	<link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-	<link rel="stylesheet" href="./custom.css">
+	<link rel="stylesheet" href="/custom.css">
 	<link href="https://fonts.loli.net/css?family=Poppins:700|Source+Sans+Pro&display=swap" rel="stylesheet">
+	<link href="https://fonts.loli.net/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 	<link rel="icon" href="https://sotap.oss-cn-qingdao.aliyuncs.com/favicon.ico">
 	<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
 </head>
@@ -22,11 +23,16 @@
 	<div id="app"></div>
 	<script>
 		window.$docsify = {
+			routerMode: 'history',
+			alias: {
+      				'/.*/_sidebar.md': '/_sidebar.md',
+				'/.*/_404.md': '/_404.md',
+				'/.*/sw.js': '/sw.js'
+    			},
 			name: 'Sotap Wiki',
 			nameLink: '/',
 			repo: 'https://github.com/sotapmc/SotapWiki',
 			loadSidebar: true,
-			notFoundPage: '_404.md',
 			noEmoji: false,
 			auto2top: true,
 			homepage: 'index.md',
@@ -40,8 +46,11 @@
 				}
 			],
 			subMaxLevel: 2,
+			autoHeader: true,
+			basePath: '/'
 		};
 	</script>
+        <script src="//unpkg.com/docsify-copy-code"></script>
 	<script src="//unpkg.com/docsify/lib/docsify.min.js" data-ga="UA-128204434-2"></script>
 	<!--<script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>-->
 	<script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
@@ -54,8 +63,8 @@
 			extensions: ["tex2jax.js"],
 			jax: ["input/TeX", "output/HTML-CSS"],
 			tex2jax: {
-				inlineMath: [["$", "$"],
-				displayMath: [["$$", "$$"],
+				inlineMath: [["$", "$"]],
+				displayMath: [["$$", "$$"]],
 				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'a'],
 			},
 			"HTML-CSS": {

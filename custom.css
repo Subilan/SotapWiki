@@ -1,6 +1,7 @@
 table {
-    width: fit-content !important;
     margin: auto;
+    overflow: scroll;
+    display: block;
 }
 
 a {
@@ -44,3 +45,7 @@ h1,
 
 .MathJax_Display{overflow-x:auto;overflow-y:hidden;}
 .MathJax{outline:0;}
+
+body {
+    font-family: "Inter", "Roboto", -apple-system, BlinkMacSystemFont, 'Helvetica Neue', "微软雅黑", "Microsoft YaHei UI", sans-serif !important;
+}

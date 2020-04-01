@@ -1,12 +1,13 @@
 # 开始
 
-欢迎来到 Sotap Wiki(发音 `/'wɪkɪ/`，维基)！加入社区请先[**申请白名单**](https://wiki.sotap.org/#/forum/application)。
+欢迎来到 Sotap Wiki(发音 `/'wɪkɪ/`，维基)！加入社区请先[**申请白名单**](https://wiki.sotap.org/forum/application)。
 
 ## 当前世界「SoTap Windfall」 
 
 服务器版本 Paper 1.15.2 **Online mode**
 
-!>请使用 1.15.2 版本客户端登录，允许加载 Mod。**不支持其它任何版本。**
+!>请使用 1.15.2 版本客户端登录，允许加载 Mod。  
+**不支持其它任何版本。**
 
 [官网](https://sotap.org/) | [论坛](https://g.sotap.org/) | [常见问题](https://wiki.sotap.org/#/getting-started/faq) | [新人指南](https://wiki.sotap.org/#/Windfall/beginners-guide) | [游戏规则](https://sotap.org/rules) | [世界地图](http://map.sotap.org:2333)
 
@@ -17,10 +18,14 @@
 服务器地址：
 > play.sotap.org  
 
-**未开放**~~如果您在中国境外希望使用国际加速专线，请使用:~~
+**未开放**  
+
+~~如果您在中国境外希望使用国际加速专线，请使用:~~
 > global.play.sotap.org  
 
-**未开放**~~如果您在中国境内网络较差希望使用国内加速专线，请使用:~~  
+**未开放**  
+
+~~如果您在中国境内网络较差希望使用国内加速专线，请使用:~~  
 > cn.play.sotap.org  
 
 如果您仍有延迟过高、网络抖动等问题，请联系管理员寻求帮助。  
@@ -30,6 +35,7 @@
 SoTap 管理组不会以任何理由**私下**向任何人索要金钱、物品或任何敏感信息。  
 
 - 管理员邮箱: `support@dreaming.red`
+- 加入[玩家群组](forum/groups)
 
 
 ## 参与贡献...
