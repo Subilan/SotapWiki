@@ -24,4 +24,6 @@ SoTapWiki 是一个开源的维基项目，目前由 SoTap 开发组维护。一
 
 ## 协议
 
-Apache 2.0
+<img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+
+本 Wiki 所有内容均采用 CC-BY-SA-4.0 协议开源。
