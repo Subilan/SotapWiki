@@ -11,9 +11,10 @@ SoTap Wiki 最近较为缺乏火力，于是我们招收了一部分有意向编
 
 - Constant137
 - MikeW138
-- TYC_knight
+- TYC_knight（已改名 Knight_T）
 - DrLee_lihr
 - 123-jk
+- WindSpiritSR
 
 **让我们感谢他们的贡献与付出的精力！**
 
