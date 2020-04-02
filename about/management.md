@@ -45,94 +45,8 @@ SoTap 管理组目前有四名成员，分别为
 SoTap 目前需要技术人员的加入（即非服务器管理员），您可以自我检验您是否符合以下条件的一种或多种。
 
 - 具有一定的 Vue.js 编写技术、前端开发知识；
-    - 检验：
-    ```vue
-    <template>
-        <div>
-          <p>这样写</p>
-        </div>
-        <div>
-          <p>对不对</p>
-        </div>
-   </template>
-   ```
-    - 检验：
-    ```vue
-    <script>
-        import Vue from 'vue';
-        Vue.use(Component1);
-        Vue.use(Component2);
-        Vue.use(Component3);
-        // 可以简写为？
-    </script>
-    ```
-    - 检验：
-    ```css
-    .container {
-        & {
-            position: relative;
-            height: 100%
-         }
-        & > .box {
-            position: relative;
-            display: block;
-            & + .box-2 {
-                display: none;
-            }
-        } 
-    } /* 能否看懂？*/
-    ````
 - 具有一定的 PHP 编写技术、后端开发知识；
-    - 检验
-    ```php
-    <?php
-    class Main {
-        public $value;
-        public function __construct() {
-            $this->value = 0;
-        }
-        
-        public function add(): boolean {
-            $this->value = $this->value + 1;
-            return true;
-        }
-    }
-    $m = new Main();
-    $m->add();
-    var_dump($m->value);
-    // 输出？
-    ```
-    - 检验
-    ```js
-    let xhr = new XMLHttpRequest();
-    xhr.open("get", "/main.php");
-    xhr.send(null);
-    xhr.onreadystatechange = r => {
-        if (r === xhr.DONE) {
-            console.log(r);
-        }
-    }
-    ```
-    此时联系检验 1 可以得出什么结果？
-- 具有一定的 Java 编写技术，插件知识。
-    ```java
-    package org.sotap.example;
-
-    import org.bukkit.plugin.java.JavaPlugin;
-
-    public final class example extends JavaPlugin {
-        @Override
-        public void onEnable() {
-            System.out.println("I'm now enabled!");
-        }
-
-        @Override
-        public void onDisable() {
-            System.out.println("I'm now disabled!");
-        }
-    }
-    ```
-    能否看懂？
+- 具有一定的 Java 编写技术，Bukkit 插件知识。
 
 以下列出 SoTap 在开发过程中可能会使用到或者将来会使用到的计算机语言，如果您擅长则可以考虑加入。
 
@@ -142,14 +56,14 @@ SoTap 目前需要技术人员的加入（即非服务器管理员），您可�
 - PHP 7 ⭐️
 - Java ⭐️
 - Python 3
-- Objective-C
-    - Swift
-    - Objective-C++
 - C++
 
 **注**：对于 Python 和 C++，必须确保您可以独立开发“软件”或者“程序”，而不是“会做竞赛题”。标 `⭐️` 的是主要招收项目。
 
 
 如果以上条件满足一种或多种，欢迎加入 SoTap 开发组！
+
+?> **提示**
+如果您想要加入 SoTap 的 GitHub 开发组（拥有一些对项目直接访问的权限，且允许通过此方法，在条例允许的范围内在游戏内赚取金额），而又不具备这些技术，可以考虑成为 Wiki 的积极贡献者。我们会时常邀请积极贡献者加入开发组。
 
 有意向者可以群内联系管理员 Subilan，也可以在此项目下开启 Issue 进行申请。
