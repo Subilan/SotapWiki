@@ -6,18 +6,20 @@
 
 目前已经编写的插件有：
 
-- [HamsterEcoHelper 向导](/plugins/hamsterecohelper-guide.md)
-- [mcMMO 指令](/plugins/mcmmo-commands.md)
+- [NyaaUtils 插件指南](plugins/nyaautils.md)
+- [HamsterEcoHelper 插件指南](/plugins/hamsterecohelper-guide.md)
 - [Residence 指令](/plugins/residence-commands.md)
+- [mcMMO 指令](/plugins/mcmmo-commands.md)
 - [神秘精灵介绍](/plugins/sprite.md)
-- [Capcat 使用指南](/plugins/capcat.md)
+- [Capcat 插件指南](/plugins/capcat.md)
 
-|插件名称|中文俗名|用途|
-|:-:|:-:|:-:|
-|HamsterEcoHelper|新经济插件|一种相对于传统 Vault 新型的经济插件，可有效缓解后期通货膨胀和贫富差距问题。|
-|mcMMO|能力统计|类 RPG 实现，监听玩家在服务器中的行为并给予对应的升级，从而增强某一特定技能，总体上称「战斗力」。|
-|Residence|领地插件|用于圈地的插件。|
-|Capcat|传送牌插件|花费一定的金钱在某一静态位置设定传送牌，点击后即可瞬间传送到另一静态位置。|
+| 插件名称 | 中文俗名 | 用途 |
+| :-: | :-: | :-: |
+| NyaaUtils | NU | 包含了多类杂项辅助功能。 |
+| HamsterEcoHelper | 新经济插件 | 一种相对于传统 Vault 新型的经济插件，可有效缓解后期通货膨胀和贫富差距问题。 |
+| Residence | 领地插件 | 用于圈地的插件。 |
+| mcMMO | 能力统计 | 类 RPG 实现，监听玩家在服务器中的行为并给予对应的升级，从而增强某一特定技能，总体上称「战斗力」。 |
+| Capcat | 传送牌插件 | 花费一定的金钱在某一静态位置设定传送牌，点击后即可瞬间传送到另一静态位置。 |
 
 ## 添加规范
 

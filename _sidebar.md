@@ -1,8 +1,8 @@
-- [开始](index.md)  
+- [开始](index.md)
 
 - **了解**
     - [什么是 SoTap？](introduction.md)
-    - [关于 OFG](about-ofg.md)  
+    - [关于 OFG](about-ofg.md)
 - **起步**
     - [加入服务器前...](getting-started/preparation.md)
     - [小白入服指南](getting-started/entering-server.md)
@@ -31,12 +31,12 @@
     - [赞助套餐](extra.md)
 - **插件相关**
     - [概述](plugins/index.md)
+    - [NyaaUtils](plugins/nyaautils.md)
     - [HamsterEcoHelper](plugins/hamsterecohelper-guide.md)
     - [Residence](plugins/residence-commands.md)
     - [mcMMO](plugins/mcmmo-commands.md)
     - [精灵图鉴](plugins/sprite.md)
     - [Capcat 传送牌](plugins/capcat.md)
-    - [NyaaUtils](plugins/nyaautils.md)
 - **玩家列表**
     - [概述](players/index.md)
 - **关于**
@@ -45,4 +45,3 @@
     - [技术信息](about/technical-information.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
 - [反馈问题](https://g.sotap.org/t/development)
-    
