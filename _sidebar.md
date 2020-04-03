@@ -1,8 +1,8 @@
-- [开始](index.md)  
+- [开始](index.md)
 
 - **了解**
     - [什么是 SoTap？](introduction.md)
-    - [关于 OFG](about-ofg.md)  
+    - [关于 OFG](about-ofg.md)
 - **起步**
     - [加入服务器前...](getting-started/preparation.md)
     - [小白入服指南](getting-started/entering-server.md)
@@ -45,4 +45,3 @@
     - [技术信息](about/technical-information.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
 - [反馈问题](https://g.sotap.org/t/development)
-    
