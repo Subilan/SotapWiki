@@ -30,9 +30,9 @@
 $$ \rho\frac{\mathrm{D}\mathbf{v}}{\mathrm{D} t} = \nabla \cdot\mathbb{P} + \rho\mathbf{f} $$
 
 $$ \mathbb{P} = \begin{pmatrix}
-\sigma_{xx} &  \tau_{xy} & \tau_{xz} \\
-\tau_{yx} &  \sigma_{yy} & \tau_{yz} \\
-\tau_{zx} &  \tau_{zy} & \sigma_{zz}
+\sigma_{xx} & \tau_{xy} & \tau_{xz} \\
+\tau_{yx} & \sigma_{yy} & \tau_{yz} \\
+\tau_{zx} & \tau_{zy} & \sigma_{zz}
 \end{pmatrix}
 =
 -
@@ -43,9 +43,9 @@ p&0&0\\
 \end{pmatrix}
 + 
 \begin{pmatrix}
-\sigma_{xx}+p &  \tau_{xy} & \tau_{xz} \\
+\sigma_{xx}+p & \tau_{xy} & \tau_{xz} \\
 \tau_{yx} & \sigma_{yy}+p & \tau_{yz} \\
-\tau_{zx} &  \tau_{zy} & \sigma_{zz}+p
+\tau_{zx} & \tau_{zy} & \sigma_{zz}+p
 \end{pmatrix} $$
 
 <small><b>注</b> 系 NS 方程节选<small>
@@ -59,8 +59,8 @@ p&0&0\\
     <figcaption>图片注释</figcaption>
 </figure>
 
-|表头1|表头2|表头3|
-|:-:|:-:|:-:|
-|表体|表体|表体|
-|表体|表体|表体|
-|表体|表体|表体|
+| 表头1 | 表头2 | 表头3 |
+| :-: | :-: | :-: |
+| 表体 | 表体 | 表体 |
+| 表体 | 表体 | 表体 |
+| 表体 | 表体 | 表体 |
