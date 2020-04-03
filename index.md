@@ -31,10 +31,10 @@
 如果您仍有延迟过高、网络抖动等问题，请联系管理员寻求帮助。  
 
 ## 联系  
-!>SoTap 社区和社区服务器仅使用 `sotap.org` 和 `seatide.net` 域名，且强制开启 HTTPS 加密连接。  
+!>SoTap 社区和社区服务器仅使用 `sotap.org` 域名，且强制开启 HTTPS 加密连接。  
 SoTap 管理组不会以任何理由**私下**向任何人索要金钱、物品或任何敏感信息。  
 
-- 管理员邮箱: `support@dreaming.red`
+- 管理员邮箱: `support@sotap.org`
 - 加入[玩家群组](forum/groups)
 
 

@@ -18,10 +18,14 @@
 
 ## 关于 SoTap Wiki
 
-SoTapWiki 是一个开源的维基项目，目前由 SoTap 开发组维护。一般来说，SoTap Wiki 遵循 Apache 2.0 协议，允许任何情况下的二次创作，但是必须注明您是从此项目进行修改的（如果直接 Fork 就不必注明，因为已经很明显了）。因此，您完全可以把此 Wiki 作为您创作 Wiki 的现成模板。
+SoTap Wiki 是一个开源的维基项目，目前由 SoTap 开发组和玩家共同维护。一般来说，SoTap Wiki 本体代码遵循 Apache 2.0 协议，但其内容以 [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议开源。
 
-**为什么我在 SoTap Wiki 里看到了一些与喵窝 Wiki 类似的语言？** 因为喵窝是我们~~崇拜的对象~~，Wiki 上的确有部分内容来源于喵窝的 Wiki，但是我们仍然以原创为主。来源于喵窝 Wiki 上的内容，一般是通用于所有类似服务器的。
+Wiki 是自由的，所有的贡献过程公开透明，且属于 `sotapmc` 所有，不是任何一个人的个人财富。Wiki 用来让玩家明白，什么事情查查就知道，什么事情问了才知道——也能够有效地缓解管理组地压力。
+
+Wiki 的一切更改记录将永久保存，不会因为任何原因被删除或锁定。即使将来的某一天 SoTap 逝去，其内容也不会消失，而是永远作为回忆和精神财富，存留在这个自由的国度。
 
 ## 协议
 
-Apache 2.0
+<img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+
+本 Wiki 所有内容均采用 CC-BY-SA-4.0 协议开源。

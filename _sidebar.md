@@ -31,12 +31,14 @@
     - [赞助套餐](extra.md)
 - **插件相关**
     - [概述](plugins/index.md)
+    - [NyaaUtils](plugins/nyaautils.md)
     - [HamsterEcoHelper](plugins/hamsterecohelper-guide.md)
     - [Residence](plugins/residence-commands.md)
     - [mcMMO](plugins/mcmmo-commands.md)
     - [精灵图鉴](plugins/sprite.md)
     - [Capcat 传送牌](plugins/capcat.md)
-    - [NyaaUtils](plugins/nyaautils.md)
+- **玩家列表**
+    - [概述](players/index.md)
 - **关于**
     - [加入 Wiki 项目](/contributor.md)
     - [加入管理组](about/management.md)
