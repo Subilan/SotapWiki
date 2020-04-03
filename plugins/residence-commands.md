@@ -222,6 +222,11 @@ Residence 是本服务器以及大部分 Spigot 服务器所使用的领地插�
 /res pdel fairyhouse Sapherise
 ```
 
+给予 Sapherise 在 fairyhouse 的 admin 权限（管理员）
+```minecraft
+/res pset fairyhouse Sapherise admin true
+```
+
 给予 Sapherise 在 fairyhouse 的 build 权限：
 ```minecraft
 /res pset fairyhouse Sapherise build true
