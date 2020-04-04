@@ -151,6 +151,17 @@ Residence 是本服务器以及大部分 Spigot 服务器所使用的领地插�
 
 就禁止了所有人（除了 fairyhouse 领地 admin）在 fairyhouse 的 animalkilling 权限。
 
+### 给予指定玩家领地基础权限
+
+### /res padd
+
+`padd` 指令可以快速添加指定玩家进入领地，即拥有领地的基础权限。用法如下：
+
+```minecraft
+/res pset [领地名称] <玩家名称> 
+```
+其中领地名称仅在指定非你所处的领地时才需要输入。
+
 ### 设置指定玩家权限
 
 #### /res pset
@@ -165,11 +176,16 @@ Residence 是本服务器以及大部分 Spigot 服务器所使用的领地插�
 和`/res set` 一样，你可以选择执行`/res pset [领地名称] <玩家名称>` 打开可视化的权限设置面板，也可以执行`/res flags ?`查看权限名称，并在指令中修改该权限。
 
 **示例**
+
+给予 Sapherise 在 fairyhouse 的 admin 权限 **（设置管理员）**：
+```minecraft
+/res pset fairyhouse Sapherise admin true
+```
 给予 Sapherise 在 fairyhouse 的 build 权限：
 ```minecraft
 /res pset fairyhouse Sapherise build true
 ```
-撤除 Sapherise 在 fairyhouse 的 anvil 权限
+撤除 Sapherise 在 fairyhouse 的 anvil 权限：
 ```minecraft
 /res pset fairyhouse Sapherise anvil false
 ```
