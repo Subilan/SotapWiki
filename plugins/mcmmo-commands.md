@@ -26,6 +26,26 @@ McMMO 是一款经典的 RPG 技能插件。
 
 使用 `/mcability` 可以**禁止/允许**技能发动。
 
+## 技能列表
+
++ [战斗力](#战斗力)
++ [杂技 Acrobatics](#杂技-Acrobatics)
++ [炼金 Alchemy](#炼金-Alchemy)
++ [箭术 Archery](#箭术-Archery)
++ [斧技 Axes](#斧技-Axes)
++ [挖掘 Excavation](#挖掘-Excavation)
++ [钓鱼 Fishing](#钓鱼-Fishing)
++ [草药学 Herbalism](#草药学-Herbalism)
++ [挖矿 Mining](#挖矿-Mining)
++ [修理 Repairs](#修理-Repairs)
++ [剑术 Swords](#剑术-Swords)
++ [驯兽 Taming](#驯兽-Taming)
++ [格斗 Unarmed](#格斗-Unarmed)
++ [砍木 Woodcutting](#砍木-Woodcutting)
++ [分解 Salvage](#分解-Salvage)
++ [冶炼 Smelting](#冶炼-Smelting)
+
+
 ### 战斗力
 
 「战斗力」 是你所有技能合共的等级，会显示在你的名字下方，所有玩家均可见。使用 `/mctop` 可以查看全服战斗力排行榜。
