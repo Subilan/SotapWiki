@@ -42,7 +42,7 @@ Fork 本项目，并在 `/players` 文件夹下创建一个与您游戏名称相
 
 对 Wiki 贡献程度较高或有软件开发基础的玩家，会被邀请进入 `sotapmc` 的 GitHub Organization（也就是我们常说的「开发组」）。如果您不具备 Pull Request 的相关知识，则可以提前写好您的 Markdown 文件并联系 Wiki 贡献人员帮您提交您的页面。
 
-Wiki 贡献人员提交的要求与上面列出的相同。可在[此处](/writers)查看所有的 Wiki 贡献人员。
+Wiki 贡献人员提交的要求与上面列出的相同。可在[此处](http://localhost:3000/#/wiki/contributors)查看所有的 Wiki 贡献人员。
 
 ## 关于
 
