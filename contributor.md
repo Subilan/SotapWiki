@@ -15,6 +15,7 @@ SoTap Wiki 最近较为缺乏火力，于是我们招收了一部分有意向编
 - DrLee_lihr
 - 123-jk
 - WindSpiritSR
+- Kelegele
 - Jimmy0w0
 
 **让我们感谢他们的贡献与付出的精力！**
