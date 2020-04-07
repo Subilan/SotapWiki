@@ -7,7 +7,7 @@
 - Subilan
 - Kelegele
 - Constant137
-- MikeW138 ( 仅工作日朝九晚五空闲，该时段不收报酬 )
+- MikeW138
 
 ## 关于编者
 
