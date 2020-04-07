@@ -43,6 +43,7 @@
     - [Capcat 传送牌](plugins/capcat.md)
 - **玩家列表**
     - [概述](players/index.md)
+    - [MikeW138](players/MikeW138.md)
 - **关于**
     - [加入 Wiki 项目](/writers.md)
     - [加入管理组](about/management.md)
