@@ -1,3 +1,5 @@
+# Git: 开始你的第一次提交
+
 [上一章](github/github_welcome)我们大致了解了 GitHub 和 Git 的关系，并且注册了 GitHub 账号，成功建立了第一个仓库。今天我们将会来了解如何使用 Git 进行你的第一次提交。
 
 ## 安装 Git
