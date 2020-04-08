@@ -29,27 +29,6 @@
 
 $$ \rho\frac{\mathrm{D}\mathbf{v}}{\mathrm{D} t} = \nabla \cdot\mathbb{P} + \rho\mathbf{f} $$
 
-$$ \mathbb{P} = \begin{pmatrix}
-\sigma_{xx} & \tau_{xy} & \tau_{xz} \\
-\tau_{yx} & \sigma_{yy} & \tau_{yz} \\
-\tau_{zx} & \tau_{zy} & \sigma_{zz}
-\end{pmatrix}
-=
--
-\begin{pmatrix}
-p&0&0\\
-0&p&0\\
-0&0&p
-\end{pmatrix}
-+ 
-\begin{pmatrix}
-\sigma_{xx}+p & \tau_{xy} & \tau_{xz} \\
-\tau_{yx} & \sigma_{yy}+p & \tau_{yz} \\
-\tau_{zx} & \tau_{zy} & \sigma_{zz}+p
-\end{pmatrix} $$
-
-<small><b>注</b> 系 NS 方程节选<small>
-
 <https://sotap.org> [文本超链接](#)
 
 ![图片](https://mcsunrise.oss-cn-qingdao.aliyuncs.com/sunrise1.png)
