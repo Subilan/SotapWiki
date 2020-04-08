@@ -74,3 +74,7 @@ git push origin master
 ```
 
 如此一来，你的文件和你的提交信息就一起上传到了 GitHub 中。
+
+## 拓展阅读
+
+[附录：关于 README](/github/about_readme.md)
