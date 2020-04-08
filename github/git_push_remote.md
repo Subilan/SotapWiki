@@ -8,7 +8,7 @@
 
 在这里，你会看到一个以 `.git` 结尾的地址——就像这样: `https://github.com/JimmyRice/repoforteach.git`。
 
-此时，我们需要在电脑上创建一个文件夹，用来存储这个项目。我们打开这个文件夹，右键空白处，选择「Git Bash here」打开 Git Bash。
+此时，我们需要在电脑上创建一个文件夹，用来存储这个项目。我们打开这个文件夹，右键空白处，选择「Git Bash Here」打开 Git Bash。
 
 ![](https://i.loli.net/2020/04/08/C2X8FspNBleGq5S.jpg)
 
