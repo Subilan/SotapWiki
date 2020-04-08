@@ -1,13 +1,6 @@
 # 现有编者
 
-以下列表中列出了现有的编者在 Minecraft 中的游戏名
-
-- Sapherise
-- Remind_Z
-- Subilan
-- Kelegele
-- Constant137
-- MikeW138
+[查看现有编者](//book.sotap.org/#/wiki/contributors.md)
 
 ## 关于编者
 
