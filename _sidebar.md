@@ -1,8 +1,8 @@
-- [开始](index.md)  
+- [开始](index.md)
 
 - **了解**
     - [什么是 SoTap？](introduction.md)
-    - [关于 OFG](about-ofg.md)  
+    - [关于 OFG](about-ofg.md)
 - **起步**
     - [加入服务器前...](getting-started/preparation.md)
     - [小白入服指南](getting-started/entering-server.md)
@@ -10,6 +10,7 @@
     - [服务器列表](getting-started/server-network.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
+    - [关于桉树叶](getting-started/EusMC.md)
 - **社区**
     - [玩家群组](forum/groups.md)
     - [居民申请说明](forum/application.md)
@@ -17,6 +18,11 @@
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
     - [Markdown 教程](forum/markdown-tutorial.md)
+- **Git/GitHub**
+    - [GitHub: 入门](github/github_welcome.md)
+    - [Git: 开始你的第一次提交](github/git_first_commit.md)
+    - [Git: 将本地仓库推送到远端仓库](github/git_push_remote.md)
+    - [附录：关于 README](github/about_readme.md)
 - **Windfall**
     - [新人指南](Windfall/beginners-guide.md)
     - [经济体系](Windfall/economy.md)
@@ -39,10 +45,10 @@
     - [Capcat 传送牌](plugins/capcat.md)
 - **玩家列表**
     - [概述](players/index.md)
+    - [MikeW138](players/MikeW138.md)
 - **关于**
-    - [加入 Wiki 项目](/contributor.md)
+    - [加入 Wiki 项目](/writers.md)
     - [加入管理组](about/management.md)
     - [技术信息](about/technical-information.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
 - [反馈问题](https://g.sotap.org/t/development)
-    

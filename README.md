@@ -4,13 +4,9 @@
 
 ## 贡献
 
-本 Wiki 面向所有 Minecraft 玩家开放 Pull Request。如果您对本 Wiki 的内容有任何好的建议，欢迎 Fork 后修改然后提出 PR，我们会及时给您答复。在贡献时，需要注意以下几点：
+本 Wiki 面向所有 Minecraft 玩家开放 Pull Request。如果您对本 Wiki 的内容有任何好的建议，欢迎 Fork 后修改然后提出 PR，我们会及时给您答复。在进行贡献之前，请阅读[基本编写规范](https://book.sotap.org/#/wiki/manual)来了解 SoTap Wiki 的基本编写原则，以保证格式和语言风格上的统一。如果您对 Wiki 的贡献流程还不了解，请阅读[贡献指南](https://book.sotap.org/#/wiki/contribution)来了解详细步骤。
 
-- 语言风格要合适。一般情况下无需考虑这一点，但是差别太大也不好。
-- 中文与英文、数字之间需要空格。保持文字规范性，这是 SoTapWiki 的宗旨。
-- **SoTap** 书写规范。这一点不作硬性要求，但是请尽量保证。
-
-如果您对使用 GitHub 具有一定的困难而仍然想要进行修改的，可以参考我们的[这个帖子](https://g.sotap.org/d/82)中的内容继续（需要先加入 SoTap）。
+如果您对使用 GitHub 具有一定的困难而仍然想要进行修改的，我们将在稍后推出这方面的教程（仅针对贡献 SoTap Wiki），您可以适当参考了解。
 
 ## 提出问题
 

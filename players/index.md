@@ -42,16 +42,7 @@ Fork 本项目，并在 `/players` 文件夹下创建一个与您游戏名称相
 
 对 Wiki 贡献程度较高或有软件开发基础的玩家，会被邀请进入 `sotapmc` 的 GitHub Organization（也就是我们常说的「开发组」）。如果您不具备 Pull Request 的相关知识，则可以提前写好您的 Markdown 文件并联系 Wiki 贡献人员帮您提交您的页面。
 
-Wiki 贡献人员提交的要求与上面列出的一样。目前我们的贡献人员有
-
-- Sapherise
-- Remind_Z
-- Subilan
-- Kelegele
-- Constant137
-- MikeW138
-
-需要注意的是，Wiki 贡献人员可以适当地向对方索取一定的报酬（或者免费提供帮助）。报酬只能是 coins，且单次最高价格只能为 2000；如果对方需要修改，仍可索取报酬，但此时单次最高价格只能为 500。
+Wiki 贡献人员提交的要求与上面列出的相同。可在[此处](https://book.sotap.org/#/wiki/contributors)查看所有的 Wiki 贡献人员。
 
 ## 关于
 

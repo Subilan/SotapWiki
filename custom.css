@@ -49,3 +49,14 @@ h1,
 body {
     font-family: "Inter", "Roboto", -apple-system, BlinkMacSystemFont, 'Helvetica Neue', "微软雅黑", "Microsoft YaHei UI", sans-serif !important;
 }
+
+.markdown-section blockquote p {
+    font-weight: normal !important;
+}
+
+.tip-section {
+    background-color: rgba(66,185,131,.1);
+    padding: 1rem;
+    border-radius: 2px;
+    line-height: 1.6rem;
+}
