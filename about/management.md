@@ -56,7 +56,7 @@ SoTap 目前需要技术人员的加入（即非服务器管理员），您可�
 - TypeScript
     - Vue.js ⭐️
 - PHP 7 ⭐️
-- Java ⭐️
+- Java 11+ ⭐️
 - Python 3
 - C++
 
