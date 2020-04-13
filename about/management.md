@@ -1,6 +1,6 @@
 # 关于管理组
 
-SoTap 管理组目前有四名成员，分别为
+SoTap 管理组目前有五名成员，分别为
 
 - **Sapherise** - SoTap 管理组组长，SoTap 服务器服主；
 - **Cropenfe** - SoTap 管理组成员，SoTap 服务器管理员，SoTap 群组管理员；
