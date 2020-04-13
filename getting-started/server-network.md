@@ -19,12 +19,19 @@ SoTap 的主服务器，生存+ RPG 混合类型的游戏模式。永久保存�
     - `world_the_end` 末路之地
 - [规则详见](https://wiki.sotap.org/#/rules)
 
+### SoTap Land 地牢服务器
+SoTap 的子服务器，纯净 + 新地形 + 新地牢的游戏模式，无爆炸保护并且死亡掉落。
+
+- 服务器代号: `land`
+- 遵循主服规则
+
 ### SkyBlock 空岛生存
 由 EUSMC 和 SoTap 合作运营的子服务器，空岛生存类游戏。开局一个岛，由玩家创造属于自己的家园。
 
 - 服务器代号: `skyblock`
 - 遵循主服规则
 - 同时对[桉树叶服务器](https://www.eumc.cc/)玩家开放。
+
 
 ## 薛定谔的服务器
 
