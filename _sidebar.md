@@ -10,6 +10,7 @@
     - [服务器列表](getting-started/server-network.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
+    - [关于桉树叶](getting-started/EusMC.md)
 - **社区**
     - [玩家群组](forum/groups.md)
     - [居民申请说明](forum/application.md)
