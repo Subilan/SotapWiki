@@ -11,12 +11,10 @@
     - [常见问题](getting-started/faq.md)
     - [关于桉树叶](getting-started/EusMC.md)
 - **社区**
-    - [玩家群组](forum/groups.md)
-    - [居民申请说明](forum/application.md)
-- **论坛**
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
     - [Markdown 教程](forum/markdown-tutorial.md)
+    - [玩家群组](forum/groups.md)
 - **Git/GitHub**
     - [GitHub: 入门](github/github_welcome.md)
     - [Git: 开始你的第一次提交](github/git_first_commit.md)
