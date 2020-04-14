@@ -4,9 +4,8 @@
     - [什么是 SoTap？](introduction.md)
     - [关于 OFG](about-ofg.md)
 - **起步**
-    - [加入服务器前...](getting-started/preparation.md)
-    - [小白入服指南](getting-started/entering-server.md)
-    - [游戏规则](rules.md)
+    - [小白入服指南](getting-started/preparation.md)
+    - [游戏规则](/rules.md)
     - [服务器列表](getting-started/server-network.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
