@@ -11,7 +11,7 @@
 - Discord
 - ... Comming Soon
 
-请点击[此处](https://wiki.sotap.org/forum/groups)查看它们。
+请点击[此处](/forum/groups.md)查看它们。
 
 ## 进入服务器
 
