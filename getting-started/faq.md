@@ -9,7 +9,7 @@
 
 ## 初来者相关
 
-?> ✅ 关于初来者的大多数问题，[新人指南](https://wiki.sotap.org/#/Windfall/beginners-guide)应该皆可解答。
+?> ✅ 关于初来者的大多数问题，[新人指南](https://wiki.sotap.org/Windfall/beginners-guide)应该皆可解答。
 
 ### SoTap 服务器对客户端有特别的要求吗？
 
