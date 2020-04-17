@@ -17,7 +17,7 @@ SoTap 的主服务器，生存+ RPG 混合类型的游戏模式。永久保存�
     - `world` 主世界
     - `world_nether` 下界
     - `world_the_end` 末路之地
-- [规则详见](https://wiki.sotap.org/#/rules)
+- [规则详见](https://wiki.sotap.org/rules)
 
 ### SoTap Land 地牢服务器
 SoTap 的子服务器，纯净 + 新地形 + 新地牢的游戏模式，无爆炸保护并且死亡掉落。
