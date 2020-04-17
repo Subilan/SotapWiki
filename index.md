@@ -2,6 +2,10 @@
 
 欢迎来到 Sotap Wiki(发音 `/'wɪkɪ/`，维基)！加入社区请先[**申请白名单**](https://wiki.sotap.org/forum/application)。
 
+Sotap Wiki 并不是针对整个 Minecraft 游戏的知识库，它仅针对 Sotap 服务器及相关社区。如果您希望了解有关 Minecraft 游戏本身的信息，请移步[中文Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki)。
+
+中国内地用户还可以访问此[镜像站](https://wiki.biligame.com/mc/Minecraft_Wiki)
+
 ## 当前世界「SoTap Windfall」
 
 服务器版本 Paper 1.15.2 **Online mode**
