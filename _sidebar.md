@@ -47,6 +47,5 @@
 - **关于**
     - [加入 Wiki 项目](/writers.md)
     - [加入管理组](about/management.md)
-    - [技术信息](about/technical-information.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
 - [反馈问题](https://g.sotap.org/t/development)
