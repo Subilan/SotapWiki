@@ -19,6 +19,7 @@
     - [GitHub: 入门](github/github_welcome.md)
     - [Git: 开始你的第一次提交](github/git_first_commit.md)
     - [Git: 将本地仓库推送到远端仓库](github/git_push_remote.md)
+    - [Git: 版本穿梭 (第一讲)](github/git_reset_1.md)
     - [附录：关于 README](github/about_readme.md)
 - **Windfall**
     - [新人指南](Windfall/beginners-guide.md)
