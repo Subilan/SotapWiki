@@ -11,7 +11,7 @@ Sotap Wiki 并不是针对整个 Minecraft 游戏的知识库，它仅针对 Sot
 !> 请使用 1.15.2 版本客户端登录，允许加载 Mod。
 **不支持其它任何版本。**
 
-[官网](https://sotap.org/) | [论坛](https://g.sotap.org/) | [常见问题](https://wiki.sotap.org/#/getting-started/faq) | [新人指南](https://wiki.sotap.org/#/Windfall/beginners-guide) | [游戏规则](https://sotap.org/rules) 
+[官网](https://sotap.org/) | [论坛](https://g.sotap.org/) | [常见问题](https://wiki.sotap.org/getting-started/faq) | [新人指南](https://wiki.sotap.org/Windfall/beginners-guide) | [游戏规则](https://sotap.org/rules) 
 
 同时，我们还有一些附加的内容，比如「[服务器指令大全](others/commands-for-players.md
 )」等，您甚至可以将这些指令**用于其它 Spigot 服务器**。总之，您一旦有了任何问题，欢迎随时前来逛逛！
