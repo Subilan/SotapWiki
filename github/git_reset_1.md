@@ -41,11 +41,11 @@ Date:   Tue Apr 21 01:08:23 2020 +0800
     Create story.txt
 ```
 
-- commit <SHA-1>: 你可以看到 commit 后面跟了一串很长的东西，这是一个 `SHA-1` 校验码，你可以看作是一个每次提交的独特的「身份证」
+- commit `<SHA-1>`: 你可以看到 commit 后面跟了一串很长的东西，这是一个 `SHA-1` 校验码，你可以看作是一个每次提交的独特的「身份证」
 
-- Author <UserName> <Email>: 这里显示了提交人的用户名和邮箱
+- Author `<UserName> <Email>`: 这里显示了提交人的用户名和邮箱
 
-- Date <Date> <Time> <Year> <TimeZone>: 在这，你可以看到本次提交的日期，时间和时区
+- Date `<Date> <Time> <Year> <TimeZone>`: 在这，你可以看到本次提交的日期，时间和时区
 
 - Message: 时间下面的内容显示的是我们每次提交时候的留言信息
 
