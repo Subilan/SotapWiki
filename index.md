@@ -32,8 +32,6 @@ Sotap Wiki 并不是针对整个 Minecraft 游戏的知识库，它仅针对 Sot
 !> SoTap 社区和社区服务器仅使用 `sotap.org` 域名，且强制开启 HTTPS 加密连接。
 SoTap 管理组不会以任何理由**私下**向任何人索要金钱、物品或任何敏感信息。
 
-- 管理员邮箱: ~~`support@sotap.org`~~ 暂不可用
-  - 换而代之，请联系 `suyuanliang1995@gmail.com`
 - 加入[玩家群组](forum/groups)
 
 
