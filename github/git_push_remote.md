@@ -26,7 +26,7 @@ git remote add <alias> <repo>
 
 - **alias**（别名）: 别名的存在是因为通常情况下 Git 远程仓库的地址都很长，因此我们可以设定一个别名来取代这个很长的地址，一般情况下大家都喜欢使用 `origin`，这就好比是我们习惯用 $ E $ 表示能量、$ v $ 表示速度等。
 
-- **repo**（仓库地址）: GitHub 显示给你的仓库地址，也就是我们在前文中提到的，类似于 `https://github.com/JimmyRice/repoforteach.git` 的地址。
+- **repo**（仓库地址）: GitHub 显示给你的仓库地址，也就是我们在前文中提到的，类似于 `https://github.com/JimmyRice/repoforteach.git` 的地址。注意后面带有`.git`后缀
 
 **示例**
 
@@ -40,7 +40,7 @@ git remote add origin https://github.com/JimmyRice/repoforteach.git
 
 ## 用户名和邮箱
 
-在上传之前，Git 需要知道我们的用户名和邮箱，如果设置错误或者未设置，则可能会出现一个令人不安的 `Unverified` 标志（验证不通过）。
+在上传之前，Git 需要知道我们的用户名和邮箱，如果未设置，会让GitHub拒绝我们的Push。
 
 通过以下命令来进行设定：
 

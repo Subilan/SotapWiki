@@ -4,24 +4,22 @@
     - [什么是 SoTap？](introduction.md)
     - [关于 OFG](about-ofg.md)
 - **起步**
-    - [加入服务器前...](getting-started/preparation.md)
-    - [小白入服指南](getting-started/entering-server.md)
-    - [游戏规则](rules.md)
+    - [小白入服指南](getting-started/preparation.md)
+    - [游戏规则](/rules.md)
     - [服务器列表](getting-started/server-network.md)
     - [常用指令大全](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
     - [关于桉树叶](getting-started/EusMC.md)
 - **社区**
-    - [玩家群组](forum/groups.md)
-    - [居民申请说明](forum/application.md)
-- **论坛**
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
     - [Markdown 教程](forum/markdown-tutorial.md)
+    - [玩家群组](forum/groups.md)
 - **Git/GitHub**
     - [GitHub: 入门](github/github_welcome.md)
     - [Git: 开始你的第一次提交](github/git_first_commit.md)
     - [Git: 将本地仓库推送到远端仓库](github/git_push_remote.md)
+    - [Git: 版本穿梭 (第一讲)](github/git_reset_1.md)
     - [附录：关于 README](github/about_readme.md)
 - **Windfall**
     - [新人指南](Windfall/beginners-guide.md)
@@ -33,7 +31,6 @@
     - [指令格式](others/command-format.md)
     - [指令大全(主服篇)](others/commands-for-players.md)
     - [指令大全(空岛篇)](others/commands-for-skyblock.md)
-    - [指令大全(OP 篇)](others/commands-for-operators.md)
     - [赞助套餐](extra.md)
 - **插件相关**
     - [概述](plugins/index.md)
@@ -46,9 +43,9 @@
 - **玩家列表**
     - [概述](players/index.md)
     - [MikeW138](players/MikeW138.md)
+    - [TYC_Knight](players/Knight_T.md)
 - **关于**
     - [加入 Wiki 项目](/writers.md)
     - [加入管理组](about/management.md)
-    - [技术信息](about/technical-information.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
 - [反馈问题](https://g.sotap.org/t/development)
