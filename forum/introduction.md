@@ -14,4 +14,4 @@ Sotap 作为一个面向大众、含有 LGBTQ Friendly 性质的服务器，必�
 - 论坛中的一些常见问题；
 - Markdown 使用教程。
 
-如果有任何疑问，请到[开发板块](//g.sotap.org/t/development)反馈。
+如果有任何疑问，请到[客服板块](//g.sotap.org/t/support)反馈。
