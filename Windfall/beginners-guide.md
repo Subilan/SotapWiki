@@ -170,11 +170,11 @@ HK 树场是大量砍木的好地方，同款木材大量集中在一起。同�
 - 所有传送指令免费
   - `/back` ⚠
   - `/home` ⚠
-  - `/warp` ⚠
+  - `/warp` 
   - `/tpa`
   - `/sethome` ⚠
 - 伤害统一降低 50%
 
 !> ⚠ **注意**<br>
-传送指令中，`/warp`、`/back`、`/home` 和 `/sethome` 四个需要在开头加上 `e` 才可免费使用，否则仍然会收费！举例：`/ewarp`、`/eback`、`/ehome` 和 `/esethome`。
+传送指令中，`/back`、`/home` 和 `/sethome` 四个需要在开头加上 `e` 才可免费使用，否则仍然会收费！举例：`/eback`、`/ehome` 和 `/esethome`。
 
