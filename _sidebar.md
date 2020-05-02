@@ -39,6 +39,7 @@
     - [MikeW138](players/MikeW138.md)
     - [TYC_Knight](players/Knight_T.md)
 - **关于**
+    - [生态系统](/ecosystem.md)
     - [加入 Wiki 项目](/writers.md)
     - [加入管理组](about/management.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/master)
