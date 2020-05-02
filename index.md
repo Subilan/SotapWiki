@@ -33,6 +33,7 @@ Sotap Wiki 并不是针对整个 Minecraft 游戏的知识库，它仅针对 Sot
 SoTap 管理组不会以任何理由**私下**向任何人索要金钱、物品或任何敏感信息。
 
 - 加入[玩家群组](forum/groups)
+- 联系[@Subilan](//subilan.win) `christophersubilan@gmail.com`
 
 
 ## 参与贡献...
