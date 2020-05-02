@@ -42,7 +42,7 @@ Monologue 是开源自由程序，使用 Apache-2.0 协议开源。
 
 ![](https://img.shields.io/badge/poweredby-NyaaCat-ff6666?style=flat)
 
-**stats.sotap.org** 是记录玩家游戏信息的页面，基于[喵窝](//nyaa.cat)（NyaaCat）开发的 [NyaaStats](//github.com/NyaaCat/NyaaStats)。玩家可以在此页面看到自己的在线时长、成就进度等。目前的更新频率是 10 分钟一次。同时该页面也是玩家领取成就奖励的证明方式之一。
+**stats.sotap.org** 是记录玩家游戏信息的页面，基于[喵窝](//nyaa.cat)（NyaaCat）开发的 [NyaaStats](//github.com/NyaaCat/NyaaStats)。玩家可以在此页面看到自己的在线时长、成就进度等。目前的更新频率是 25 分钟一次。同时该页面也是玩家领取成就奖励的证明方式之一。
 
 ### 开发手册 - `book.sotap.org`
 
