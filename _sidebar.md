@@ -25,7 +25,8 @@
     - [指令格式](others/command-format.md)
     - [指令大全(主服篇)](others/commands-for-players.md)
     - [指令大全(空岛篇)](others/commands-for-skyblock.md)
-    - [赞助套餐](extra.md)
+    - [赞助套餐](/extra.md)
+    - [广告与图片定制](/advertisement-and-illustrations.md)
 - **插件相关**
     - [概述](plugins/index.md)
     - [NyaaUtils](plugins/nyaautils.md)
