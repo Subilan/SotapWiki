@@ -33,6 +33,7 @@
     - [HamsterEcoHelper](plugins/hamsterecohelper-guide.md)
     - [Residence](plugins/residence-commands.md)
     - [mcMMO](plugins/mcmmo-commands.md)
+    - [任务卷轴](plugins/cluescrolls.md)
     - [精灵图鉴](plugins/sprite.md)
     - [Capcat 传送牌](plugins/capcat.md)
 - **玩家列表**
