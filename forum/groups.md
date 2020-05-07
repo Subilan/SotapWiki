@@ -3,15 +3,7 @@
 玩家群组即用于玩家之间交流的讨论组。
 玩家群组并不仅可由管理员建立，玩家之间也会相互建立各种不同主题的群组。这里仅列出部分管理员建立的群组和部分玩家建立的群组。
 
-## Telegram
-
-### `sotapdev`
-
-[点击加入](//t.me/sotapdev)
-
-SoTap 社区的 Telegram 公开频道，用于发布一些有关于 SoTap 的发展信息。
-
-### `sotap_windfall`
+## Telegram `sotap_windfall`
 
 [点击加入](//t.me/sotap_windfall)
 
