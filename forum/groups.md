@@ -23,8 +23,6 @@ SoTap 旗下附属游戏服务器子群，通过了居民申请的玩家加入 Q
 
 ## Discord
 
-### SoTap(OFG) Minecraft Discord Channel
-
 [点击加入](https://discord.gg/WfEbx6D)
 
 SoTap 的 Discord 服务器。包含一个与游戏互通聊天的频道、其他闲聊频道和语音频道。
