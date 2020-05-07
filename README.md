@@ -1,4 +1,4 @@
-# 🐱 the De-nyaacatize Projet
+# 🐱 the De-nyaacatize Project
 
 旧的 README 可以在[这里](/README-backup.md)找到
 
