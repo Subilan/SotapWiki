@@ -10,6 +10,7 @@
 - [HamsterEcoHelper 插件指南](/plugins/hamsterecohelper-guide.md)
 - [Residence 指令](/plugins/residence-commands.md)
 - [mcMMO 指令](/plugins/mcmmo-commands.md)
+- [ClueScrolls 插件指南](/plugins/cluescrolls.md)
 - [神秘精灵介绍](/plugins/sprite.md)
 - [Capcat 插件指南](/plugins/capcat.md)
 
@@ -19,6 +20,7 @@
 | HamsterEcoHelper | 新经济插件 | 一种相对于传统 Vault 新型的经济插件，可有效缓解后期通货膨胀和贫富差距问题。 |
 | Residence | 领地插件 | 用于圈地的插件。 |
 | mcMMO | 能力统计 | 类 RPG 实现，监听玩家在服务器中的行为并给予对应的升级，从而增强某一特定技能，总体上称「战斗力」。 |
+| ClueScrolls | 任务卷轴 | 独立于其他任务的卷轴任务，通过消耗经验购买，完成任务后可以获得奖励。|
 | Capcat | 传送牌插件 | 花费一定的金钱在某一静态位置设定传送牌，点击后即可瞬间传送到另一静态位置。 |
 
 ## 添加规范
