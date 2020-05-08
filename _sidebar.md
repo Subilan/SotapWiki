@@ -18,7 +18,7 @@
 - **Windfall**
     - [新人指南](Windfall/beginners-guide.md)
     - [经济体系](Windfall/economy.md)
-    - [如何挣钱](Windfall/howToMakeMoney.md)
+    - [如何挣钱](Windfall/how-to-make-money.md)
     - [城镇据点](Windfall/realms)
     - [世界工程](Windfall/projects)
 - **附加内容**
