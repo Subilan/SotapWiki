@@ -1,6 +1,6 @@
-# 🐱 the De-nyaacatize Project
+# ![](https://i.loli.net/2020/05/08/xzq8FwAy2DO7fXH.png) the De-nyaacatize Project
 
-旧的 README 可以在[这里](/README-backup.md)找到
+旧的 README 可以在[这里](/README-backup.md)找到。
 
 **De-nyaacatize Project**（去喵窝化计划），由于在「没有征兆、没有预料」的情况下，Wiki 多出了一大堆与[喵窝 Wiki](//wiki.nyaa.cat) 十分相像的语言文字，这使本 Wiki 的独立性受到了质疑。SoTap Wiki 一直本着「原创与参考相搭配」的原则，创造出真正适合 SoTap 玩家的内容。但很显然，这类「过于直接」的「文案借鉴」违背了这一原则。因此，我们需要开展这个计划，使 SoTap Wiki 的内容回归初心。
 
