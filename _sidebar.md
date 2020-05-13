@@ -7,7 +7,7 @@
     - [小白入服指南](getting-started/preparation.md)
     - [游戏规则](/rules.md)
     - [服务器列表](getting-started/server-network.md)
-    - [常用指令大全](getting-started/basic-commands.md)
+    - [常用指令](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
     - [关于桉树叶](getting-started/EusMC.md)
 - **社区**
