@@ -32,7 +32,7 @@
 **示例：**
 
 ```minecraft
-/capcat tp create &a巴黎主城 world 123 67 321 20
+/capcat tp create &a巴黎主城 world -81 64 259 45
 ```
 
 其中，“单次传送标价”为税前价格，最低可至 1 coin。
