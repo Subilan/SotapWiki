@@ -40,6 +40,7 @@
     - [概述](players/index.md)
     - [MikeW138](players/MikeW138.md)
     - [TYC_Knight](players/Knight_T.md)
+    - [Hutu](players/Hutu.md)
 - **关于**
     - [生态系统](/ecosystem.md)
     - [加入 Wiki 项目](/writers.md)
