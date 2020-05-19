@@ -43,6 +43,7 @@
     - [Hutu](players/Hutu.md)
     - [qianbimo](players/Qianbimo.md)
     - [123__jk](players/123__jk.md)
+    - [DrLee_lihr](players/DrLee_lihr.md)
 - **关于**
     - [生态系统](/ecosystem.md)
     - [加入 Wiki 项目](/writers.md)
