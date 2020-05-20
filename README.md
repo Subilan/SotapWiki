@@ -27,7 +27,7 @@
 | 常见问题 | 标题、内文、格式 | [已完成](/getting-started/faq.md) | ⚠ 极其严重 |
 | 玩家群组 | 标题、内文 | 待修改 | - |
 | 新人指南 | 标题、内文、格式 | [大致完成](/Windfall/beginners-guide.md) | ⚠ 极其严重 |
-| 世界工程 | 标题、内文 | 待修改 | - |
+| 世界工程 | 标题、内文 | [已完成](/Windfall/projects.md) | - |
 | NyaaUtils 插件指南 | - | [已完成](/plugins/nyaautils.md) | 仅记录 |
 | HamsterEcoHelper 插件指南 | - | [已完成](/plugins/hamsterecohelper-guide.md) | 仅记录 |
 | CapCat 插件指南 | 指令坐标部分露出马脚了 | [已完成](/plugins/capcat.md) | ⚠ 严重 | 
