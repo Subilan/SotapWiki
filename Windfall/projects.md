@@ -115,5 +115,5 @@
 | 巴黎城西 | 建设工程 | 市政厅 | `x:-421 z:245` | 6w | Sapherise | 进行中 | Takanashi__ |
 | ^ | ^ | 蚂蚁商城 | `x:-392 z:282` | 4w | Sapherise | 已完成 | Takanashi__ |
 | ^ | ^ | 邮局 | `x:-434 z:338` | 4w | Sapherise | 已完成 | He1D1 |
-| ^ | ^ | 咖啡馆 | `x:-395 z:222` | 5w | Sapherise | 待认领 | - |
+| ^ | ^ | 咖啡馆 | `x:-395 z:222` | 5w | Sapherise | 进行中 | justACuter |
 | ^ | ^ | 报社 | `x:-446 z:280` | 6w | Sapherise | 待认领 | - |
