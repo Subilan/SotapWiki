@@ -10,7 +10,6 @@
 | `animalkilling` | 允许在领地内伤害动物 | - |
 | `anvil` | 使用铁砧 | - |
 | `anvilbreak` | 允许铁砧被摧毁 | - |
-| `backup` | *待整理* | - |
 | `beacon` | 修改信标效果 | - |
 | `bed` | 使用床 | - |
 | `brew` | 使用酿造台 | - |
@@ -19,44 +18,41 @@
 | `button` | 使用按钮 | - |
 | `cake` | 允许吃蛋糕 | - |
 | `canimals` | *待整理* | - |
-| `chat` | *待整理* | - |
+| `chat` | 允许领地聊天 | *效果不明* |
 | `chorustp` | 允许食用紫颂花进行传送 | - |
 | `cmonsters` | *待整理* | - |
 | `container` | 允许使用容器 | 例如箱子、熔炉、展示框等等 |
 | `coords` | 允许显示坐标 | *效果不明* |
 | `craft` | 使用工作台 | - |
 | `creeper` | 允许苦力怕爆炸 | - |
-| `damage` | *待整理* | - |
 | `day` | 永远白天 | 仅视角效果，不影响怪物生成等。 |
 | `decay` | 允许树叶枯萎（消失） | - |
 | `destory` | 仅允许破坏 | - |
 | `diode` | 使用红石中继器 | - |
 | `door` | 使用门 | 包括木门、活板门等等 |
-| `dragongrief` | *待整理* | - |
-| `dryup` | *待整理* | - |
+| `dragongrief` | 允许龙在领地进行破坏 | - |
+| `dryup` | 允许湿润的耕地变干 | - |
 | `dry` | 允许对羊染色 | - |
 | `egg` | 使用鸡蛋 | - |
 | `enchant` | 使用附魔台 | - |
 | `enderpearl` | 使用末影珍珠 | - |
 | `explode` | 允许爆炸 | - |
 | `falldamage` | 允许掉落时受到伤害 | - |
-| `fallingprotection` | *待整理* | - |
+| `fallingprotection` | 允许掉落的方块掉落到领地内 | - |
 | `feed` | 允许喂动物 | - |
 | `fireball` | 允许火球 | - |
 | `firespread` | 允许火焰蔓延 | - |
 | `flow` | 允许液体流动 | 相当于 `lavaflow` + `waterflow` |
 | `flowerpot` | 允许使用花盆 | - |
-| `friendlyfire` | *待整理* | - |
 | `glow` | 开启后所有玩家会发光 | - |
 | `grow` | 开启饱食度恢复 | - |
 | `healing` | 开启生命恢复 | - |
-| `hidden` | *待整理* | - |
-| `hotfloor` | 允许
+| `hotfloor` | 允许岩浆块做成伤害 | - |
 | `iceform` | 允许冰霜行者形成冰 | - |
 | `icemelt` | 允许冰溶化 | - |
 | `ignite` | 允许点火 | - |
-| `itemdrop` | *待整理* | - |
-| `itempickup` | *待整理* | - |
+| `itemdrop` | 允许丢出物品 | - |
+| `itempickup` | 允许拾起物品 | - |
 | `jump2` | 提升跳跃效果 | - |
 | `jump3` | 提升跳跃效果 | - |
 | `lavaflow` | 允许岩浆流动 | - |
@@ -96,7 +92,6 @@
 | `table` | *待整理* | - |
 | `title` | 显示进出提示 | - |
 | `tnt` | 允许 TNT 爆炸 | - |
-| `tp` | *待整理* | - |
 | `trade` | 允许与村民交易 | - |
 | `trample` | 允许踩坏耕地 | - |
 | `use`| 使用门、工作台等 | 铁砧需要用 `anvil` 权限设置 |
