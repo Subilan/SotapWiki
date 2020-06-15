@@ -35,6 +35,7 @@
     - [mcMMO](plugins/mcmmo-commands.md)
     - [任务卷轴](plugins/cluescrolls.md)
     - [精灵图鉴](plugins/sprite.md)
+    - [突破附魔](plugins/upgradeabletools.md)
     - [Capcat 传送牌](plugins/capcat.md)
 - **玩家列表**
     - [概述](players/index.md)
