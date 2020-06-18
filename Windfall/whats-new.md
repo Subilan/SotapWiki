@@ -1,0 +1,28 @@
+# 最近加入内容索引
+
+*本页内容会在更新**发布后**，在此页加入对应 wiki 内容的索引。如果需要查看更新内容，请前往[官方博客](https://blog.sotap.org)或[更新日志](https://open.sotap.org)。*
+*除重要索引外，此页仅保留最近 1 个月的最近加入内容。*
+
+## 1.16 版本
+
+- 地狱将会重置，重置后请按照[地狱道路修建统一基本规定][SomethingThatShouldHaveDoneButStillNotDone]进行修建。
+
+## 6 月 21 日
+
+- [6.21 夏日礼包][621夏日礼包]即将来临
+- [SVP 玩家][赞助相关]每周可以免费领取每种武器工具的 120 点[升级点数（ut）][ut]
+
+## 6 月 14 日
+
+- [突破附魔（ut）][ut]插件上线
+
+## 6 月 1 日
+
+- 黄金海岸的慈善之家投入使用，玩家到时候可以将自己的物品和金钱捐出获得**[爱心券][爱心券]**来到假日小屋兑换奖品。
+
+
+[SomethingThatShouldHaveDoneButStillNotDone]:
+[621夏日礼包]:
+[赞助相关]:/extra.md
+[ut]:/plugins/upgradeabletools.md
+[爱心券]:/Windfall/economy.md#爱心券
