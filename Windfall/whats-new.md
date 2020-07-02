@@ -22,7 +22,7 @@
 - 黄金海岸的慈善之家投入使用，玩家到时候可以将自己的物品和金钱捐出获得**[爱心券][爱心券]**来到假日小屋兑换奖品。
 
 
-[地狱交通]:/Windfall/nether.md
+[地狱交通]:https://g.sotap.org/d/175-116/7
 [夏日礼包]:/extra-summer.md
 [赞助相关]:/extra.md
 [ut]:/plugins/upgradeabletools.md
