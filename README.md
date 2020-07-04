@@ -14,7 +14,7 @@
 
 ## 关于 SoTap Wiki
 
-SoTap Wiki 是一个开源的维基项目，目前由 SoTap 开发组和玩家共同维护。一般来说，SoTap Wiki 本体代码遵循 Apache 2.0 协议，但其内容以 [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议开源。
+SoTap Wiki 是一个开源的维基项目，目前由 SoTap 开发组和玩家共同维护。一般来说，SoTap Wiki 本体代码遵循 Apache 2.0 协议，但其内容以 [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 协议开源。
 
 Wiki 是自由的，所有的贡献过程公开透明，且属于 `sotapmc` 所有，不是任何一个人的个人财富。Wiki 用来让玩家明白，什么事情查查就知道，什么事情问了才知道——也能够有效地缓解管理组地压力。
 
@@ -22,6 +22,6 @@ Wiki 的一切更改记录将永久保存，不会因为任何原因被删除或
 
 ## 协议
 
-<img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+<img alt="創用 CC 授權條款" style="border-width:0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" />
 
-本 Wiki 所有内容均采用 CC-BY-SA-4.0 协议开源。
+本 Wiki 所有内容均采用 CC-BY-NC-ND-4.0 协议开源。任何非 Wiki 贡献者不得在非 SoTap 领域对本 Wiki 进行任何形式的二次创作或传播，任何人禁止将此 Wiki 中的任何内容用于商业营利性目的。
