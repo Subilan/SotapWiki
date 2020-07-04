@@ -24,4 +24,4 @@ Wiki 的一切更改记录将永久保存，不会因为任何原因被删除或
 
 <img alt="創用 CC 授權條款" style="border-width:0" src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" />
 
-本 Wiki 所有内容均采用 CC-BY-NC-ND-4.0 协议开源。任何非 Wiki 贡献者不得在非 SoTap 领域对本 Wiki 进行任何形式的二次创作或传播，任何人禁止将此 Wiki 中的任何内容用于商业营利性目的。
+本 Wiki 所有内容均采用 CC-BY-NC-ND-4.0 协议开源。任何非 Wiki 贡献者不得对本 Wiki 进行任何形式的二次创作，任何人禁止将此 Wiki 中的任何内容用于商业营利性目的。
