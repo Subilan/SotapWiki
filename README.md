@@ -1,4 +1,9 @@
-# SoTap Wiki
+<h1 align=center>SoTap Wiki</h1>
+<p align=center>
+<img src="https://img.shields.io/badge/poweredby-sotapmc-blue"/>
+<img src="https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-brightgreen"/>
+<img src="https://img.shields.io/badge/site-clickhere-009688"/>
+</p>
 
 **SoTap Wiki** 是 SoTap Minecraft 服务器的官方 Wiki 项目，由管理组和玩家共同编写。SoTap Wiki 可通过 https://wiki.sotap.org 访问，为了保证访问的稳定性，我们未使用 GitHub Pages。
 
