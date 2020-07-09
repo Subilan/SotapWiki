@@ -6,7 +6,7 @@ SoTap Wiki 并不是针对整个 Minecraft 游戏的知识库，而是为 SoTap 
 
 ## 开始
 
-?> 🕒 当前版本：Paper 1.15.2 正版
+?> 🕒 当前版本：Paper 1.16.1 正版
 
 SoTap WindFall 是当前世界的名称，采取不删档的政策，版本紧跟 MOJANG 最新的**稳定版**。我们的服务器地址是
 
