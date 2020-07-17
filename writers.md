@@ -16,7 +16,7 @@
 
 「编者」是我们对所有 Wiki 长期贡献人员的统称，相当于晋升阶梯中的后两者。目前我们的晋升阶梯为：
 
-```
+```text
 Outside Contributor -> Outside Collaborator -> Organization Member
 外部贡献者 -> 内部贡献者 -> 开发组成员
 ```

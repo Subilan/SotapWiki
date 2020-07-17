@@ -1,4 +1,4 @@
-# ![](https://i.loli.net/2020/05/08/xzq8FwAy2DO7fXH.png) the De-nyaacatize Project
+# ![小黄豆](https://i.loli.net/2020/05/08/xzq8FwAy2DO7fXH.png) the De-nyaacatize Project
 
 旧的 README 可以在[这里](/README-backup.md)找到。
 
@@ -17,20 +17,20 @@
 
 所有的去喵窝化工作都将被计入到 Wiki 贡献中，与正常的 Wiki 贡献完全一样。
 
-#### 需要修改的页面
+### 需要修改的页面
 
-| 页面 | 重合内容 | 状态 | 备注 | 
-| :-: | :-: | :-: | :-: |
-| SideBar | 标题、起步、社区 | 待修改 | ⚠ 严重 |
-| 服务器列表 | 标题、内文、格式 | 待修改 | - |
-| 常用指令大全 | 标题 | [已完成]() | - |
-| 常见问题 | 标题、内文、格式 | [已完成](/getting-started/faq.md) | ⚠ 极其严重 |
-| 玩家群组 | 标题、内文 | 待修改 | - |
-| 新人指南 | 标题、内文、格式 | [大致完成](/Windfall/beginners-guide.md) | ⚠ 极其严重 |
-| 世界工程 | 标题、内文 | [已完成](/Windfall/projects.md) | - |
-| NyaaUtils 插件指南 | - | [已完成](/plugins/nyaautils.md) | 仅记录 |
-| HamsterEcoHelper 插件指南 | - | [已完成](/plugins/hamsterecohelper-guide.md) | 仅记录 |
-| CapCat 插件指南 | 指令坐标部分露出马脚了 | [已完成](/plugins/capcat.md) | ⚠ 严重 | 
+|           页面            |        重合内容        |                     状态                     |    备注    |
+| :-----------------------: | :--------------------: | :------------------------------------------: | :--------: |
+|          SideBar          |    标题、起步、社区    |                    待修改                    |   ⚠ 严重   |
+|        服务器列表         |    标题、内文、格式    |                    待修改                    |     -      |
+|       常用指令大全        |          标题          |    [已完成](/others/commands-for-players)    |     -      |
+|         常见问题          |    标题、内文、格式    |      [已完成](/getting-started/faq.md)       | ⚠ 极其严重 |
+|         玩家群组          |       标题、内文       |                    待修改                    |     -      |
+|         新人指南          |    标题、内文、格式    |   [大致完成](/Windfall/beginners-guide.md)   | ⚠ 极其严重 |
+|         世界工程          |       标题、内文       |       [已完成](/Windfall/projects.md)        |     -      |
+|    NyaaUtils 插件指南     |           -            |       [已完成](/plugins/nyaautils.md)        |   仅记录   |
+| HamsterEcoHelper 插件指南 |           -            | [已完成](/plugins/hamsterecohelper-guide.md) |   仅记录   |
+|      CapCat 插件指南      | 指令坐标部分露出马脚了 |         [已完成](/plugins/capcat.md)         |   ⚠ 严重   |
 
 ## 高危等级避免
 
@@ -47,6 +47,6 @@
 - 参考请适量，必要时标明出处
 - **不能模仿对方的语言风格**
 
-## 以前的 README 什么时候可以回来？
+## 以前的 README 什么时候可以回来
 
 当该项目完成之后。

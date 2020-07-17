@@ -47,5 +47,5 @@ Wiki 贡献人员提交的要求与上面列出的相同。可在[此处](https:
 ## 关于
 
 - 您提交的内容将成为 Wiki 项目的一部分，并永久可以被查看和回滚，因此请不要上传敏感信息，包括您的个人隐私信息。SoTap 无法保证当您上传了这些信息后不会被恶意利用。
-- 您提交的内容将遵循 CC-BY-SA-4.0 协议向全网开源，任何人都可以看到您的内容。
+- 您提交的内容将遵循 [CC BY-NC-ND 4.0 协议](https://creativecommons.org/licenses/by-nc-nd/4.0/) 向全网开源，任何人都可以看到您的内容。
 - **SoTap 会确保您的页面不被第三方篡改，包括 SoTap 本身。** SoTap Wiki 的更改记录公开透明，[点此](https://github.com/sotapmc/SotapWiki/commits/master)即可前往。我们会拒绝任何非您本人或您授权的人，对您的个人页面的修改行为。

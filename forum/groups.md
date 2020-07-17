@@ -34,4 +34,3 @@ SoTap 附属饥荒游戏服务器分群。群内可以进行以饥荒游戏为�
 [点击加入](https://discord.gg/WfEbx6D)
 
 SoTap 的 Discord 服务器。包含一个与游戏互通聊天的频道、其他闲聊频道和语音频道。
-

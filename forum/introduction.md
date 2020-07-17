@@ -4,7 +4,7 @@ Sotap 作为一个面向大众、含有 LGBTQ Friendly 性质的服务器，必�
 
 为了给玩家营造一个更好的讨论环境，我们并没有采用当前流行的 Discuz!，而是采用了仍然处于 Beta 阶段的 Flarum（由国外团队开发）论坛程序。
 
-![](https://i.loli.net/2019/08/09/3Kb9EYt67hwoZuy.png)
+![flarum](https://i.loli.net/2019/08/09/3Kb9EYt67hwoZuy.png)
 
 在本 Wiki 中开设论坛此项目，是为了让玩家能够适应新时代 BBS 的交流模式——Markdown 和帖子模型——您现在听不懂这些很正常。以此来促进玩家之间信息传递的效率以及提高其质量。
 
