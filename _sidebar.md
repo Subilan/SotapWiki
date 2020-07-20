@@ -19,6 +19,7 @@
     - [新人指南](Windfall/beginners-guide.md)
     - [最近加入内容](Windfall/whats-new.md)
     - [经济体系](Windfall/economy.md)
+    - [薄荷币兑换奖励](plugins/mint.md)
     - [如何挣钱](Windfall/how-to-make-money.md)
     - [城镇据点](Windfall/realms)
     - [世界工程](Windfall/projects)
@@ -38,7 +39,6 @@
     - [精灵图鉴](plugins/sprite.md)
     - [突破附魔](plugins/upgradeabletools.md)
     - [Capcat 传送牌](plugins/capcat.md)
-    - [薄荷币兑换奖励](plugins/mint.md)
 - **玩家列表**
     - [概述](players/index.md)
     - [MikeW138](players/MikeW138.md)
