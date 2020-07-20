@@ -19,7 +19,7 @@
     - [新人指南](Windfall/beginners-guide.md)
     - [最近加入内容](Windfall/whats-new.md)
     - [经济体系](Windfall/economy.md)
-    - [薄荷币兑换奖励](plugins/mint.md)
+    - [薄荷币兑换奖励](Windfall/mint.md)
     - [如何挣钱](Windfall/how-to-make-money.md)
     - [城镇据点](Windfall/realms)
     - [世界工程](Windfall/projects)
