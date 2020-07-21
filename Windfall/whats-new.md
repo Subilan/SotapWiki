@@ -32,7 +32,6 @@
 - [突破附魔（ut）][ut]插件上线，[SVP 玩家][赞助相关]每周可以免费领取每种武器工具的 120 点 UT
 - 黄金海岸的慈善之家投入使用，捐出物品和金钱可以获得[爱心券][爱心券]，用以在假日小屋兑换 IA 物品或找 Cropenfe 兑换特定物品。
 
-
 [mint]:/Windfall.mint.md
 [强化书架]:/plugins/enchancedbookshelf.md
 [地狱交通]:https://g.sotap.org/d/175-116/7
