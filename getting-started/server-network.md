@@ -114,7 +114,7 @@ SoTap 旗下独立运营的 1.12.2 模组服。 请注意，该服务器适用�
 - 服务器代号:`seatide`
 - **SEATiDE now abandoned.**
 
-### SoTap Land 地牢服务器 (R.I.P. 2020/5/3)
+### FantasyLand 史诗地形/地牢服务器 (R.I.P. 2020/5/3)
 
 SoTap 的子服务器，纯净 + 新地形 + 新地牢的游戏模式，无爆炸保护并且死亡掉落。
 
