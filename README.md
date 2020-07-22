@@ -25,4 +25,4 @@ SoTap Wiki 上的所有内容均由玩家或管理组成员编写，除去那些
 
 SoTap Wiki 是由 SoTap 玩家和管理组共同努力所搭建起的公共知识库，任何 SoTap 玩家都有对其内容进行修改、删除或增添的权力。SoTap Wiki 也绝非某一「个」人的作品，而是所有玩家共同奋斗的产物。
 
-SoTap Wiki 上的所有内容均按照 [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 协议开源，这意味着任何非 Wiki 贡献者都不能对本 Wiki 进行任何形式的二次创作，任何人都不能将此 Wiki 中的任何内容用于商业营利性目的。若发现有人违反，请[联系](https://g.sotap.org/t/support)我们举报。
+SoTap Wiki 上的所有内容均按照 [CC-BY-NC-ND-4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 协议开源，这意味着任何非 Wiki 贡献者都不能对本 Wiki 进行任何形式的二次创作，任何人都不能将此 Wiki 中的任何内容用于商业营利性目的。若发现有人违反，请[联系](https://g.sotap.org/t/support)我们举报。
