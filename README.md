@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/site-clickhere-009688"/>
 </p>
 
-**SoTap Wiki** 是 SoTap Minecraft 服务器的官方 Wiki 项目，由管理组和玩家共同编写。SoTap Wiki 可通过 https://wiki.sotap.org 访问。
+**SoTap Wiki** 是 SoTap Minecraft 服务器的官方 Wiki 项目，由管理组和玩家共同编写。SoTap Wiki 可通过 [SotapWiki](https://wiki.sotap.org) 访问。
 
 SoTap Wiki 上的所有内容均由玩家或管理组成员编写，除去那些与 SoTap 本身直接相关的内容（例如收费标准、规则提示等），其余内容我们无法保障绝对权威性，但我们仍能保证其具有基本可信度。SoTap 的所有玩家均可在 SoTap 领域内对 Wiki 的内容进行引用、诠释或批评。
 
