@@ -9,7 +9,15 @@ table {
 a {
 	display: inline-block;
 	text-decoration: none;
-	transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+a[target], a[href^="#/"]:not(.anchor) {
+    font-weight: normal;
+}
+
+.pagination-item-title {
+    font-weight: bold;
 }
 
 a:hover {
