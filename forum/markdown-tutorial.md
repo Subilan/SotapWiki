@@ -69,10 +69,13 @@ array.forEach(e => {
 
 它们的写法是这样的：
 
-```markdown
+<pre v-pre data-lang="markdown">
+<code class="lang-markdown">
 ```语言名称
 代码内容
 ```
+</code>
+</pre>
 
 其中「语言名称」必须填写纯英文字母。对于 Java、Python、PHP 等纯英文名称的语言，可以直接小写以后作为语言名称。而对于 C++、C# 等带有特殊符号的语言，则应使用英文代替。例如 C++ 写作 `cpp`（plus plus）、C# 写作 `csharp`（sharp 就是 # 的英文）。
 
@@ -89,6 +92,15 @@ int main() {
 ```
 
 这样就可以将这个代码展示出来了。
+
+同时，我们最近加入了对于 Minecraft 指令的高亮拓展，你将可以在 SoTap Wiki 上使用 Minecraft 高亮。
+
+```minecraft
+/lp group permission <set|add|info|...> <playername> <true|false>
+/me [message...]
+```
+
+需要注意的是，其它地方无法使用此高亮。
 
 如果没有语言名称或者语言名称写错了，那么代码不会有任何问题，但是就没有「五彩斑斓」的高亮了，影响美观。
 
