@@ -96,3 +96,7 @@ img:hover {
     transition: box-shadow .25s cubic-bezier(.4,0,.2,1),-webkit-box-shadow .25s cubic-bezier(.4,0,.2,1);
     will-change: box-shadow;
 }
+
+code {
+    font-family: "Roboto Mono", "Cascadia Code", "SF Mono", "Consolas", "微软雅黑" !important;
+}
