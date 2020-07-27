@@ -1,0 +1,12 @@
+(function (Prism) {
+    Prism.languages.minecraft = {
+        'condition': /\(.+\)/,
+        'choisy': /<\w+\s?\|\s?\w+>/,
+        'required': /<\S+>/,
+        'optional': /\[\S+\]/,
+        'number': /[\+-]?\d+/,
+        'colorcode': /&(a|b|c|d|e|f|k|l|o|r|1|2|3|4|5|6|7|8|9|0)/,
+        'label': /^\/\w+/,
+        'argument': /\S+/,
+    }
+}(Prism));

@@ -1,0 +1,27 @@
+.token.label {
+    color: #ffc107;
+}
+
+.token.argument {
+    color: dimgray;
+}
+
+.token.colorcode {
+    color: #ff5722;
+}
+
+.token.required {
+    color: #9c27b0;
+}
+
+.token.optional {
+    color: #2196F3;
+}
+
+.token.choisy {
+    color: #4caf50;
+}
+
+.token.condition {
+    color: #E91E63;
+}
