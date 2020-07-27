@@ -1,9 +1,6 @@
 table {
-	overflow: scroll;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
+    overflow: scroll;
+    display: inline-table !important;
 }
 
 a {
@@ -97,6 +94,11 @@ img:hover {
     will-change: box-shadow;
 }
 
-code {
+code, kbd {
     font-family: "Roboto Mono", "Cascadia Code", "SF Mono", "Consolas", "微软雅黑" !important;
+}
+
+kbd {
+    margin-left: 4px;
+    margin-right: 4px;
 }
