@@ -2,7 +2,7 @@
 
 <center>
 
-![LOGO](https://i.loli.net/2020/04/08/rUgdtumvp2fsXeq.png)
+<img src="https://i.loli.net/2020/04/08/rUgdtumvp2fsXeq.png" class="without-shadow">
 
 「桉树叶」(Eucalyptus Leaves, a.k.a **EusMC**) 是 SoTap 的友好服务器。
 
