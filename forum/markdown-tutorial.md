@@ -96,7 +96,7 @@ int main() {
 同时，我们最近加入了对于 Minecraft 指令的高亮拓展，你将可以在 SoTap Wiki 上使用 Minecraft 高亮。
 
 ```minecraft
-/lp group permission <set|add|info|...> <playername> <true|false>
+/lp group permission set <playername> <true|false>
 /me [message...]
 ```
 
