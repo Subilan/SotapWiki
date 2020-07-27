@@ -28,10 +28,10 @@
         window.$docsify = {
             routerMode: 'hash',
             alias: {
-                      '/.*/_sidebar.md': '/_sidebar.md',
+                '/.*/_sidebar.md': '/_sidebar.md',
                 '/.*/_404.md': '/_404.md',
                 '/.*/sw.js': '/sw.js'
-                },
+            },
             name: 'Sotap Wiki',
             nameLink: '/',
             loadSidebar: true,
@@ -52,13 +52,18 @@
             basePath: '/',
         };
     </script>
-        <script src="//unpkg.com/docsify-copy-code"></script>
+    <script src="//unpkg.com/docsify-copy-code"></script>
     <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js" data-ga="UA-128204434-2"></script>
     <!--<script src="//unpkg.com/docsify/lib/plugins/ga.js"></script>-->
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
     <script src="https://cdn.staticfile.org/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.20.0/components/prism-markdown.min.js"></script>
+    <!-- Remeber to load C before C++ to prevent error
+        See https://github.com/PrismJS/prism/issues/1567 -->
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.20.0/components/prism-c.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1.20.0/components/prism-cpp.min.js"></script>
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
             showProcessingMessages: false,
