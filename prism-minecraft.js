@@ -1,7 +1,7 @@
 (function (Prism) {
     Prism.languages.minecraft = {
         'condition': /\(.+\)/,
-        'choisy': /<\w+\s?\|\s?\w+>/,
+        'choisy': /<\w+(\|(\w|\.)+)+>/,
         'required': /<\S+>/,
         'optional': /\[\S+\]/,
         'number': /[\+-]?\d+/,
