@@ -4,15 +4,15 @@
 
 ## 如何发送图片
 
-这一点在[Markdown 教程](/forum/markdown-tutorial.md)中有提到，但是在这里仍然给出简明解释。
+不仅是论坛，在 Wiki 编辑时也有上传图片的需要。上传图片的目的是获取一个链接，以便在正文中使用。
 
 1. 您需要一个「图床」——意思是您存放图片的地方。目前网上有很多免费、快速的图床，我们推荐使用 [SM.MS](//sm.ms)（未收取任何广告费用），以下均以该网站为例。
 2. 打开 SM.MS 的网页，如图所示。点击图片上传框右下角绿色的「Select Images」。 ![上传图片](https://i.loli.net/2019/08/09/IBXLdjpED8NG2Re.png)
-3. 随后选择您要上传的图片，然后点击「Upload」![upload](https://i.loli.net/2019/08/09/vngPujtmcdLH7MQ.png)
+3. 随后选择您要上传的图片，然后点击「Upload」![批注 2020-07-28 085256.jpg](https://i.loli.net/2020/07/28/uybQD5fITOnB4UC.jpg)
 4. 上传成功后，查看下方的信息框。在这里您可以获取到您可能需要的所有图片链接版本。我们推荐使用 Markdown。
-5. 切换到「Markdown」一栏，复制其内容粘贴到论坛帖子中即可。![Markdown](https://i.loli.net/2019/08/09/d2ntKshfYC89V1I.png)
+5. 向下滑动，找到 Markdown 一栏，点击即可全选，复制其内容然后粘贴到论坛帖子（或 Wiki）中即可。![批注 2020-07-28 085327.jpg](https://i.loli.net/2020/07/28/FH2OuePh3wGZqTM.jpg)
 
-?> ❓ 你知道吗？可以直接将要上传的图片框选以后拖放到文件上传框内，然后选择「Upload」即可实现批量上传。不过仅限于电脑。
+!> 需要注意的是，必须确保复制的链接类型正确。请确保链接是以 `.jpg`、`.png` 等常见图片扩展名结尾。对于类似于 `https://sm.ms/image/Fdd2Ouwek29wGZqTM` 的链接，并不是图片的链接。
 
 ## 图片发送失败，产生一堆文字
 
