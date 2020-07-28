@@ -1,4 +1,4 @@
-- [开始](index.md)
+- [首页](index.md)
 
 - **了解**
     - [什么是 SoTap？](introduction.md)
@@ -28,7 +28,7 @@
     - [指令大全(主服篇)](others/commands-for-players.md)
     - [指令大全(空岛篇)](others/commands-for-skyblock.md)
     - [赞助套餐](/extra.md)
-    - [广告与图片定制](/advertisement-and-illustrations.md)
+    - [广告与图片定制](/ads.md)
 - **插件相关**
     - [概述](plugins/index.md)
     - [NyaaUtils](plugins/nyaautils.md)
