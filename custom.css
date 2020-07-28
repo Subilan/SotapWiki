@@ -82,6 +82,11 @@ img.no-center {
     margin: unset !important;
 }
 
+img[src^="https://img.shields.io"], img[src^="https://i.creativecommons.org"] {
+	margin: unset !important;
+	display: inline-block;
+}
+
 img {
     border-radius: 2px;
 	/* shadow code from mdui */
