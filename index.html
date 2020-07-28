@@ -29,17 +29,13 @@
     <script>
         window.$docsify = {
             routerMode: 'hash',
+            name: 'SoTap Wiki',
             alias: {
                 '/.*/_sidebar.md': '/_sidebar.md',
-                '/.*/_404.md': '/_404.md',
-                '/.*/sw.js': '/sw.js'
             },
-            name: 'Sotap Wiki',
-            nameLink: '/',
             loadSidebar: true,
-            noEmoji: false,
             auto2top: true,
-            homepage: 'index.md',
+            homepage: '/index.md',
             plugins: [
                 function (hook) {
                     hook.doneEach(function () {
@@ -50,8 +46,6 @@
                 }
             ],
             subMaxLevel: 2,
-            autoHeader: true,
-            basePath: '/',
         };
     </script>
     <script src="//unpkg.com/docsify-copy-code"></script>
