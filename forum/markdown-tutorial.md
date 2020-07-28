@@ -81,6 +81,9 @@ array.forEach(e => {
 
 为了便于理解，我们举个例子：
 
+
+<pre v-pre data-lang="markdown">
+<code class="lang-markdown">
 ```cpp
 #include <iostream>
 using namespace std;
@@ -90,8 +93,20 @@ int main() {
     return 0;
 }
 ```
+</code>
+</pre>
 
-这样就可以将这个代码展示出来了。
+这样就可以将这个代码展示出来了。效果如下：
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World!" << endl;
+    return 0;
+}
+```
 
 同时，我们最近加入了对于 Minecraft 指令的高亮拓展，你将可以在 SoTap Wiki 上使用 Minecraft 高亮。
 
