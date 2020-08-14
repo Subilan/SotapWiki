@@ -28,8 +28,7 @@
     - [指令大全(空岛篇)](others/commands-for-skyblock.md)
     - [赞助套餐](/extra.md)
     - [广告与图片定制](/ads.md)
-- **插件相关**
-    - [概述](plugins/index.md)
+- **插件**
     - [NyaaUtils](plugins/nyaautils.md)
     - [HamsterEcoHelper](plugins/hamsterecohelper-guide.md)
     - [Residence](plugins/residence-commands.md)
