@@ -4,7 +4,7 @@
 
 ## 指令列表
 
-!> 以下仅列出玩家可用的指令。对于管理员指令，可参阅[开发文档](//book.sotap.org/#/missiontap/commands.md)。
+!> 以下仅列出玩家可用的指令。对于管理员指令，可参阅[开发文档](//docs.sotap.dev/#/missiontap/commands.md)。
 
 以下所有指令在执行时需要在前面加上 `/missiontap` 或者 `/mt`。
 
@@ -68,7 +68,7 @@ MissionTap 内部提供了一个拖延症模式（tarriance mode）的开关，�
 
 ## 奖励中的「Ageing 经验值」是什么？
 
-Ageing 是另外一个插件，但并不会在 SoTap Wiki 上介绍。若要了解，可阅读 Ageing 的[相关文档](//book.sotap.org/#/ageing/index.md)。对于 Ageing 的升级算法，可阅读[年龄增长原理](//book.sotap.org/#/ageing/growth.md)。Ageing 是 SoTap 的一个简单的（在将来可能会变复杂）等级系统。达到指定等级之后，你将可以获得相应的奖励。具体是什么奖励与插件的配置有关。同时你也可以获取一些权限，例如购买物品的权限，前往某地的权限。
+Ageing 是另外一个插件，但并不会在 SoTap Wiki 上介绍。若要了解，可阅读 Ageing 的[相关文档](//docs.sotap.dev/#/ageing/index.md)。对于 Ageing 的升级算法，可阅读[年龄增长原理](//docs.sotap.dev/#/ageing/growth.md)。Ageing 是 SoTap 的一个简单的（在将来可能会变复杂）等级系统。达到指定等级之后，你将可以获得相应的奖励。具体是什么奖励与插件的配置有关。同时你也可以获取一些权限，例如购买物品的权限，前往某地的权限。
 
 Ageing 经验值在将来会有更多的来源。
 
