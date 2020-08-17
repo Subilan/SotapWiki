@@ -15,6 +15,7 @@ SoTap 目前有两个主域名，一个为 <https://sotap.org>，另一个为 <h
 ### `sotap.org`
 
 #### 官网 - `sotap.org`
+![](https://img.shields.io/badge/license-private-000)
 
 **sotap.org** 是 SoTap 服务器的官方网站，在上面呈现了最新的介绍内容和生态系统的综合导航。如果你愿意将 SoTap 分享给他人，将该网站发送给他人即可。官网使用 PHP 编写，内容代码原先来自 SoTap 前上级机构 SunRise 所聘请的开发者，目前由 SoTap 管理组持续维护和更新。
 
@@ -55,6 +56,8 @@ Monologue 是开源自由程序，使用 Apache-2.0 协议开源。
 ### `sotap.dev`
 
 #### 开发网 - `sotap.dev`
+
+![CC BY-NC-ND 4.0](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
 **sotap.dev** 是 SoTap 的开发者网站，主要的作用是用来区分 SoTap 在开发领域的各种事物与 SoTap 本身的游戏安排，因而注册了该域名。开发网是开源的，你可以在[这里](//github.com/sotapmc/sotapmc.github.io)找到它的仓库。我们不保证会在开发网上放置很多高深的内容，但会适当展示 SoTap 所制作的各种成品或半成品程序或插件。
 
