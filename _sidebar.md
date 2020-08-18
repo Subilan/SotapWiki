@@ -23,9 +23,11 @@
     - [如何挣钱](Windfall/how-to-make-money.md)
     - [城镇据点](Windfall/realms)
     - [世界工程](Windfall/projects)
+    - [指令大全](Windfall/player-command.md)
+- **Skyblock 魔芋空岛**
+    - [空岛指南](Skyblock/introduction.md)
+    - [指令大全](Skyblock/player-command.md)
 - **附加内容**
-    - [指令大全(主服篇)](others/commands-for-players.md)
-    - [指令大全(空岛篇)](others/commands-for-skyblock.md)
     - [赞助套餐](/extra.md)
     - [广告与图片定制](/ads.md)
 - **插件**
