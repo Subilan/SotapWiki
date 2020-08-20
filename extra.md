@@ -81,6 +81,5 @@
 
 **SoTap 有你更精彩！**
 
-[1]:/plugins/upgradeabletools.md
 [2]:/Windfall/economy.md#爱心券
 [3]:/plugins/sprite.md
