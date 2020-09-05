@@ -16,6 +16,7 @@ SoTap WindFall 是当前世界的名称，采取不删档的政策，版本紧�
 
 - 🔍 [官网](https://sotap.org/)
 - 💬 [论坛](https://g.sotap.org/)
+- 💻 [开发者](https://sotap.dev)
 - 🙋 [常见问题解答](getting-started/faq)
 - 😎 [新人指南](Windfall/beginners-guide)
 - 📜 [游戏规则](https://sotap.org/rules)
