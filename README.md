@@ -9,7 +9,7 @@
 SoTap Wiki 对所有 SoTap 玩家开放，但为了确保 Wiki 内容的质量，请确保
 
 - 了解 GitHub 以及 Git 的基本使用方法
-  - `push`、`pull`、`checkout`、`rm`
+    - `push`、`pull`、`checkout`、`rm`
 - 贡献与 SoTap 相关的科普性内容时，需保证加入并游玩 SoTap 超过一个月；贡献与 SoTap 有关的管理条例等时，需保证加入管理组并管理 SoTap 超过半个月
 - 具有良好的文字表达能力
 
