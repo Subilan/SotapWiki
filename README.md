@@ -1,7 +1,5 @@
 <img width="300" src="https://i.loli.net/2021/01/21/KG8vg5ERoFdlIYD.png">
 
----
-
 **SoTap Wiki** 是 SoTap Minecraft 服务器的官方 Wiki 项目，由玩家、管理组和群内人员共同编写和维护。SoTap Wiki 可通过域名 <https://wiki.sotap.org> 访问。
 
 本项目分为多个分支，每个分支对应不同的 Wiki 版本，以适应不同版本 SoTap 的内容。我们无法保证 Wiki 上内容的绝对权威性，但我们会保证其真实性和可用性。SoTap 的所有玩家均可在 SoTap 领域内对 Wiki 的内容进行引用、诠释或批评。
