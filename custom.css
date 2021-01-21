@@ -1,0 +1,121 @@
+table {
+    overflow: scroll;
+    display: inline-table !important;
+}
+
+a {
+	display: inline-block;
+	text-decoration: none;
+    transition: all 0.3s;
+}
+
+a[target], a[href^="#/"]:not(.anchor) {
+    font-weight: normal;
+}
+
+.pagination-item-title {
+    font-weight: bold;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+figcaption {
+	color: #aaa;
+}
+
+.subtitle {
+	color: #aaa;
+	font-weight: 600;
+}
+
+h1,
+.subtitle {
+	display: inline;
+}
+
+.app-name-link {
+	font-weight: 700;
+	margin: 16px;
+	font-family: "Poppins", "Source Sans Pro", Helvetica, Arial, sans-serif;
+}
+
+.plugin-hero {
+	font-weight: 700;
+	margin: 16px;
+	font-style: italic;
+	font-family: "Poppins", Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 64px;
+}
+
+.MathJax_Display {
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+.MathJax {
+	outline: 0;
+}
+
+body {
+	font-family: "Inter", "Roboto", -apple-system, BlinkMacSystemFont, "Helvetica Neue", "微软雅黑", "Microsoft YaHei UI", sans-serif !important;
+}
+
+.markdown-section blockquote p {
+	font-weight: normal !important;
+}
+
+.tip-section {
+	background-color: rgba(66, 185, 131, 0.1);
+	padding: 1rem;
+	border-radius: 2px;
+	line-height: 1.6rem;
+}
+
+img.without-shadow {
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+
+img.no-center {
+    margin: unset !important;
+}
+
+img[src^="https://img.shields.io"], img[src^="https://i.creativecommons.org"] {
+	margin: unset !important;
+	display: inline-block;
+}
+
+img {
+    border-radius: 2px;
+	/* shadow code from mdui */
+	-webkit-box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12) !important;
+	box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12) !important;
+    display: block;
+	margin: auto;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+img:active,
+img:hover {
+    -webkit-transition: -webkit-box-shadow .25s cubic-bezier(.4,0,.2,1);
+    transition: -webkit-box-shadow .25s cubic-bezier(.4,0,.2,1);
+    transition: box-shadow .25s cubic-bezier(.4,0,.2,1);
+    transition: box-shadow .25s cubic-bezier(.4,0,.2,1),-webkit-box-shadow .25s cubic-bezier(.4,0,.2,1);
+    will-change: box-shadow;
+}
+
+code, kbd {
+    font-family: "Roboto Mono", "Cascadia Code", "SF Mono", "Consolas", "微软雅黑" !important;
+}
+
+kbd {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.no-selection::selection, .no-selection *::selection {
+	background: rgba(0, 0, 0, 0);
+}
