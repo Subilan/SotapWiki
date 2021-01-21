@@ -4,4 +4,4 @@
 
 - [首页](index.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/v2)
-- [反馈问题](https://g.sotap.org/t/development)
+- [反馈问题](https://github.com/sotapmc/SotapWiki/issues)
