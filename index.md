@@ -15,6 +15,12 @@
 
 ?> 🌈 SoTap Wiki 是一个开放的维基项目，任何人都可以参与到它的建设中来。如果你对 Wiki 的内容有任何异议或好的建议，欢迎联系 Wiki 相关负责人员或管理组提出！
 
+## 联系
+
+?> 💖 任何时候，请认准 `sotap.org` 域名。同时，SoTap 管理组**不会主动向玩家索要现金**，如有发现，欢迎举报。
+
+- 加入[玩家群组](forum/groups)
+
 ## 关于
 
 SoTap Wiki 初建立于 [2019 年 7 月 25 日](https://github.com/sotapmc/SotapWiki/commit/fd151ec575e73b35214ff57dcc6478715cbe432c)。
