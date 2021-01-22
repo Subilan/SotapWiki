@@ -24,6 +24,18 @@ SoTap 管理组目前有四名成员，分别为
 
 目前管理组全体成员均位于中华人民共和国大陆地区，遵循北京时间作息。
 
+### 联系方式
+
+- Sapherise
+  - Email: `whj@skyers.cc`
+- Subilan
+  - Email: `christophersubilan@gmail.com`
+  - Telegram: [@Subilan](//t.me/Subilan)
+- Cropenfe
+  - 群内联系
+- Constant137
+  - 群内联系
+
 ## 加入管理组
 
 目前管理组时刻处于人手紧缺状态。因此，如果您是 SoTap 的玩家之一且有意向和我们一同建设 SoTap 社区，可以考虑申请加入管理组。在申请前，请确保您满足如下条件：
