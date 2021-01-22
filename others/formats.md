@@ -30,7 +30,7 @@
 
 > 引用块
 
-数学公式（LaTeX）：
+LaTeX 公式：
 
 $$ \rho\frac{\mathrm{D}\mathbf{v}}{\mathrm{D} t} = \nabla \cdot\mathbb{P} + \rho\mathbf{f} $$
 
