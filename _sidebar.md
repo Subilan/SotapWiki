@@ -18,7 +18,6 @@
     - [玩家群组](forum/groups.md)
 - **关于**
     - [生态系统](/ecosystem.md)
-    - [加入 Wiki 项目](/writers.md)
-    - [加入管理组](about/management.md)
+    - [管理组信息和加入事宜](about/management.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/v2)
 - [反馈问题](https://github.com/sotapmc/SotapWiki/issues)
