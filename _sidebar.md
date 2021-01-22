@@ -8,7 +8,6 @@
     - [什么是 SoTap？](introduction.md)
 - **起步**
     - [小白入服指南](getting-started/preparation.md)
-    - [游戏规则](/rules.md)
     - [常用指令](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
 - **社区**
