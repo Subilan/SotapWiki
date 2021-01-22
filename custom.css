@@ -22,6 +22,10 @@ a:hover {
     text-decoration: underline;
 }
 
+.markdown-section p.warn {
+    background: rgba(0, 150, 136, .1);
+}
+
 figcaption {
     color: #aaa;
 }
@@ -69,7 +73,7 @@ body {
 }
 
 .tip-section {
-    background-color: rgba(66, 185, 131, 0.1);
+    background: rgba(0, 150, 136, .1);
     padding: 1rem;
     border-radius: 2px;
     line-height: 1.6rem;
