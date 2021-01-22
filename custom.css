@@ -115,6 +115,10 @@ kbd {
     font-family: "Roboto Mono", "Cascadia Code", "SF Mono", "Consolas", "微软雅黑" !important;
 }
 
+h1 code, h2 code, h3 code, h4 code {
+    font-size: inherit !important;
+}
+
 kbd {
     margin-left: 4px;
     margin-right: 4px;
