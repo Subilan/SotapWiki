@@ -1,6 +1,12 @@
-<span style="font-size: 3rem">
+<span id="main-title" style="font-size: 3rem">
 <span style="font-family: Poppins, sans-serif; font-weight: 700">SoTap</span> <span style="font-family: Georgia, serif; font-weight: 500">Wiki</span>
 </span>
+
+<script>
+if (location.protocol !== "https:") {
+   document.getElementById("main-title").after(new DOMParser().parseFromString("<p class='outlined' style='display: block; text-align: center;'>\nOops，你似乎没有通过安全方式访问 SoTap Wiki。<strong>我们强烈建议你切换到<a href='https://" + location.href.substr(7) /* 7 means 'http://' */ + "'>安全链接</a>。</strong></p>", "text/html").querySelector("p"));
+}
+</script>
 
 欢迎来到 **SoTap Wiki**！
 
