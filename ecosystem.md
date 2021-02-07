@@ -11,6 +11,7 @@ SoTap 目前拥有两个域名，`sotap.org` 与 `sotap.dev`。在前者基础�
 ### `sotap.org`
 
 #### 官网 `sotap.org`
+
 ![vue](https://img.shields.io/badge/base-vue-brightgreen?style=flat&logo=vue.js)
 
 **sotap.org** 是 SoTap 服务器的官方网站，在上面呈现了最新的介绍内容。如果你愿意将 SoTap 分享给他人，将该网站地址发送给他人即可。官网是 SoTap 铺设全面介绍自身和对外宣传信息的根本载体。
@@ -70,3 +71,7 @@ SoTap 目前拥有两个域名，`sotap.org` 与 `sotap.dev`。在前者基础�
 **static.sotap.dev** 是 SoTap 的静态存储站，实则是腾讯云对象存储 COS 的一个 Bucket。为了便于记忆，使用反向代理来实现该域名的访问。该网站没有任何界面，但你可以从任何指向它的已知链接获取到 SoTap 公开发布的资源。在一些插件中所需要的资源也会从这里获取。
 
 SoTap Static 的费用将从日常玩家充值或捐赠中获取，若金额足够，将提供 CDN 加速服务。
+
+#### Demo `demo.sotap.org`
+
+**demo.sotap.org** 是 SoTap 附属项目开发过程中的测试站，用于在开发过程中不定期构建项目的 Release 版本，并向其他玩家寻求建议。
