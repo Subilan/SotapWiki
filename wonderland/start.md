@@ -5,7 +5,7 @@
 
 ## 入服准备
 
->? 我们建议您在阅读「**[小白入服指南](https://wiki.sotap.org/#/getting-started/preparation)**」并做好相关准备后开始阅读指南内容w。
+?> 我们建议您在阅读「[小白入服指南](https://wiki.sotap.org/#/getting-started/preparation)」并做好相关准备后开始阅读指南内容w。
 
 ### 遵循游戏规则
 
