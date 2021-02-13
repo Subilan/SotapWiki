@@ -10,6 +10,8 @@
     - [小白入服指南](getting-started/preparation.md)
     - [常用指令](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
+- **Wonderland**
+    - [新人指南](wonderland/start.md)
 - **社区**
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
