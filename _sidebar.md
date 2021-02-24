@@ -12,6 +12,7 @@
     - [常见问题](getting-started/faq.md)
 - **Wonderland**
     - [新人指南](wonderland/start.md)
+    - [ID 皮肤](wonderland/IDskin.md)
 - **社区**
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
