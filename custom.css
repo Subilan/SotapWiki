@@ -37,8 +37,10 @@ a:hover {
     background: rgba(0, 150, 136, .1);
 }
 
-figcaption {
-    color: #aaa;
+img + em {
+    display: block;
+    text-align: center;
+    font-style: normal;
 }
 
 .subtitle {
