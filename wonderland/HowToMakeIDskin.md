@@ -6,9 +6,7 @@
 
 由于 Aseprite 与 PS 的入门门槛较高，本条目将使用 Windows 系统自带的**画图**软件进行制作。
 
-![画图](https://www.hualigs.cn/image/6038bf57a070a.jpg)
-
-<center>微软画图软件</center>
+![画图](https://www.hualigs.cn/image/6038bf57a070a.jpg)*微软画图软件*
 
 !> 善用<kbd>Ctrl</kbd>+<kbd>Z</kbd>(撤销刚才的操作)来挽救你的错误操作
 
@@ -18,15 +16,11 @@
 
 !> 目前 ID 皮肤仅支持大小为 `48×16`像素的图像文件，未来版本将支持更高的分辨率。
 
-![尺寸](https://www.hualigs.cn/image/6038bf0474146.jpg)
-
-<center>创建画布</center>
+![尺寸](https://www.hualigs.cn/image/6038bf0474146.jpg)*创建画布*
 
 你可以按住<kbd>Ctrl</kbd>+<kbd>W</kbd>，也可以在**图像**菜单中点击**重新调整大小**来输入合适的数值使其符合要求。
 
-![尺寸](https://www.hualigs.cn/image/6038c0f645aa7.jpg)
-
-<center>调整大小</center>
+![尺寸](https://www.hualigs.cn/image/6038c0f645aa7.jpg)*调整大小*
 
 按照以上步骤，我们就得到了一块 `48×16`像素大小的白色画布。
 
@@ -36,11 +30,7 @@
 
 一款好看的 ID 皮肤，是由**图案**与**背景板**两部分组成的。
 
-![](https://www.hualigs.cn/image/6038c3b5f00d8.jpg)
-
-
-
-<center>分割画布</center>
+![](https://www.hualigs.cn/image/6038c3b5f00d8.jpg)*分割画布*
 
 现在我们把画布分割为三个 `16×16` 像素大小的正方形。
 
@@ -50,9 +40,7 @@
 
 首先，我们在两端的正方形内绘制我们的图案。
 
-![](https://www.hualigs.cn/image/6038c9081310d.jpg)
-
-<center>绘制图案</center>
+![](https://www.hualigs.cn/image/6038c9081310d.jpg)*绘制图案*
 
 !> 请务必在两侧的正方形内绘制你的图案！
 
@@ -62,9 +50,7 @@
 
 利用**图像**菜单内的**选择**功能，可以快速选择一块区域并复制粘贴，由此可以便捷地得到两个一模一样的图案。
 
-![](https://www.hualigs.cn/image/6038caea1fed9.jpg)
-
-<center>选择工具</center>
+![](https://www.hualigs.cn/image/6038caea1fed9.jpg)*选择工具*
 
 接下来，我们开始制作背景板。
 
@@ -72,43 +58,29 @@
 
 **工具**菜单内的**颜色选取器**功能可以帮助你方便地选取与图案边框相一致的颜色。
 
-![](https://www.hualigs.cn/image/6038cbf392df7.jpg)
-
-<center>颜色选取器（拾色器）</center>
+![](https://www.hualigs.cn/image/6038cbf392df7.jpg)*颜色选取器（拾色器）*
 
 如图，**颜色 1**已经与钻石边框的颜色保持一致。
 
-![示例](https://www.hualigs.cn/image/6038cd19c541b.jpg)
-
-<center>拾色器效果</center>
+![示例](https://www.hualigs.cn/image/6038cd19c541b.jpg)*拾色器效果*
 
 接下来，我们利用**直线**工具绘制背景板边框。
 
 选择**刷子**，并在**形状**菜单内选择**直线**，并在**粗细**菜单内将粗细设置为**1px**
 
-![](https://www.hualigs.cn/image/6038ce020a4cb.jpg)
+![](https://www.hualigs.cn/image/6038ce020a4cb.jpg)*直线工具*
 
-<center>直线工具</center>
-
-![](https://www.hualigs.cn/image/6038cec1b673f.jpg)
-
-<center>调整粗细</center>
+![](https://www.hualigs.cn/image/6038cec1b673f.jpg)*调整粗细*
 
 使用**直线**工具连接图案上下两端。
 
-![](https://www.hualigs.cn/image/6038cf5c3c450.jpg)
-
-<center>连接后的效果</center>
+![](https://www.hualigs.cn/image/6038cf5c3c450.jpg)*连接后的效果*
 
 使用**填充**工具为背景板上色。记得在填充前选择你喜欢的颜色。
 
-![](https://www.hualigs.cn/image/6038d0afdf6a6.jpg)
+![](https://www.hualigs.cn/image/6038d0afdf6a6.jpg)*用颜色填充*
 
-<center>用颜色填充</center>
-
-![](https://www.hualigs.cn/image/6038d1d4ccedc.jpg)
-
-<center>填充后效果</center>
+![](https://www.hualigs.cn/image/6038d1d4ccedc.jpg)*填充后效果*
 
 然后，你需要把 ID 皮肤**边框外围的区域**变得**透明**。
 
