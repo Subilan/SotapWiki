@@ -13,7 +13,7 @@
 - **Wonderland**
     - [新人指南](wonderland/start.md)
     - [ID 皮肤](wonderland/IDskin.md)
-        -[ID 皮肤制作指南](wonderland/HowToMakeIDskin.md)
+        - [ID 皮肤制作指南](wonderland/HowToMakeIDskin.md)
 - **社区**
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
