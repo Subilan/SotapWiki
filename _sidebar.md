@@ -8,17 +8,19 @@
     - [什么是 SoTap？](introduction.md)
 - **起步**
     - [小白入服指南](getting-started/preparation.md)
-    - [常用指令](getting-started/basic-commands.md)
     - [常见问题](getting-started/faq.md)
 - **Wonderland**
     - [新人指南](wonderland/start.md)
     - [ID 皮肤](wonderland/IDskin.md)
-        - [ID 皮肤制作指南](wonderland/HowToMakeIDskin.md)
+      - [ID 皮肤制作指南](wonderland/HowToMakeIDskin.md)
 - **社区**
     - [介绍](forum/introduction.md)
     - [论坛常见问题](forum/faq.md)
     - [Markdown 教程](forum/markdown-tutorial.md)
     - [玩家群组](forum/groups.md)
+- **插件相关**
+    - [基础指令大全](plugins/basic-commands.md)
+    - [FlarumReader](plugins/flarum-reader.md)
 - **关于**
     - [生态系统](/ecosystem.md)
     - [管理组信息和加入事宜](about/management.md)
