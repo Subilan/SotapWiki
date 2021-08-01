@@ -23,6 +23,6 @@
     - [FlarumReader](plugins/flarum-reader.md)
 - **关于**
     - [生态系统](//sotap.org/ecosystem)
-    - [管理组信息和加入事宜](about/management.md)
+    - [运营团队信息和加入事宜](about/management.md)
 - [更新日志](https://github.com/sotapmc/SotapWiki/commits/v2)
 - [反馈问题](https://github.com/sotapmc/SotapWiki/issues)
