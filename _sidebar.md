@@ -11,6 +11,7 @@
     - [常见问题](getting-started/faq.md)
 - **Wonderland**
     - [新人指南](wonderland/start.md)
+    - [纪念品](wonderland/souvenir.md)
     - [ID 皮肤](wonderland/IDskin.md)
       - [ID 皮肤制作指南](wonderland/HowToMakeIDskin.md)
 - **社区**
