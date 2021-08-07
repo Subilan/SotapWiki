@@ -2,7 +2,7 @@
 
 本条目将帮助你制作属于自己的 ID 皮肤。
 
-在 ID 皮肤的[官方制作指南](https://itsnathang.me/plugins/nameplates/#/creating-nameplates)中，推荐使用[Aseprite](https://www.aseprite.org/)进行制作，当然，Adobe Photoshop（即 PS ）等任何具有像素编辑功能的绘图软件都可以用于制作。
+在 ID 皮肤的[官方制作指南](https://itsnathang.me/plugins/nameplates/#/creating-nameplates)中，推荐使用 [Aseprite](https://www.aseprite.org/) 进行制作，当然，Adobe Photoshop（即 PS ）等任何具有像素编辑功能的绘图软件都可以用于制作。
 
 由于 Aseprite 与 PS 的入门门槛较高，本条目将使用 Windows 系统自带的**画图**软件进行制作。
 
@@ -96,10 +96,6 @@ Windows 画图并不支持该功能，因此你需要使用 PS 等功能更加�
 
 ## 上手体验
 
-你可以花费 **15** 宝石让你的 ID 皮肤在游戏中实装。
+服内将不定期举办相关活动，展示、上架优秀的 ID 皮肤。你的作品将会被大家看到、使用！
 
-你还可以自行决定是否公开发售你的 ID 皮肤。如果你决定发售，你可以获得销售额 **70%** 的宝石分成。
-
-玩家制作的 ID 皮肤由本人定价，有 **15** 宝石、**20** 宝石、**25** 宝石、**30** 宝石四个档次。
-
-还在等什么呢？赶快开始行动吧！
+赶快来试试吧！
