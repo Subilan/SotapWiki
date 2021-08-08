@@ -78,6 +78,7 @@ h1,
 }
 
 body {
+    font-size: 16px;
     font-family: "Inter", "Roboto", -apple-system, BlinkMacSystemFont, "Helvetica Neue", "微软雅黑", "Microsoft YaHei UI", sans-serif !important;
 }
 
@@ -147,4 +148,29 @@ kbd {
 .no-selection::selection,
 .no-selection *::selection {
     background: rgba(0, 0, 0, 0);
+}
+
+article.markdown-section {
+    max-width: 900px;
+}
+
+*::selection {
+    background: rgba(0, 150, 136, .1);
+}
+
+.markdown-section blockquote {
+    color: #34495e;
+    border: 0;
+    border-radius: 2px;
+    padding: 1rem;
+    background: #0096881a;
+}
+
+.markdown-section blockquote p > strong {
+    margin-bottom: 16px !important;
+    display: block;
+}
+
+.markdown-section blockquote p, .markdown-section blockquote ul, .markdown-section blockquote ol {
+    margin: 0;
 }
