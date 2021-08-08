@@ -23,16 +23,21 @@ a {
 }
 
 a[target],
-a[href^='#/']:not(.anchor) {
+a:not(.anchor) {
 	font-weight: normal;
+}
+
+.markdown-section a:not(.anchor):hover {
+	text-decoration: underline;
+}
+
+.sidebar a:hover {
+	text-decoration: none !important;
+	color: #009688;
 }
 
 .pagination-item-title {
 	font-weight: bold;
-}
-
-a:hover {
-	text-decoration: underline;
 }
 
 .markdown-section p.warn {
@@ -143,6 +148,14 @@ h4 code {
 	font-size: inherit !important;
 }
 
+a .outbound {
+	color: #aaa;
+	vertical-align: middle;
+	top: -1px;
+	display: inline-block;
+	position: relative;
+}
+
 kbd {
 	margin-left: 4px;
 	margin-right: 4px;
@@ -188,6 +201,6 @@ code {
 	border-radius: 3px;
 }
 
-code[class^="lang-"] {
+code[class^='lang-'] {
 	background-color: inherit !important;
 }
