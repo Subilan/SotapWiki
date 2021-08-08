@@ -14,8 +14,8 @@
     - [ID 皮肤制作指南](wonderland/HowToMakeIDskin.md)
 - **论坛**
     - [介绍](forum/introduction.md)
-    - [论坛常见问题](forum/faq.md)
-    - [Markdown 教程](forum/markdown-tutorial.md)
+    - [论坛发图指南](forum/image-posting.md)
+    - [Markdown 教程](/markdown.md)
     - [玩家群组](/groups.md)
 - **插件相关**
     - [基础指令大全](plugins/basic-commands.md)
@@ -23,5 +23,6 @@
 - **杂项**
   - [生态系统](//sotap.org/ecosystem)
   - [运营团队信息和加入事宜](about/management.md)
-- [更新日志](https://github.com/sotapmc/SotapWiki/commits/v2)
-- [反馈问题](https://github.com/sotapmc/SotapWiki/issues)
+- [加入 Wiki 项目](/join-wiki.md)
+- [反馈 Wiki 问题](https://github.com/sotapmc/SotapWiki/issues)
+- [客服板块](//g.sotap.org/t/support)

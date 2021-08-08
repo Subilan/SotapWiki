@@ -13,7 +13,7 @@
 
 从 Minecraft 1.17.1 开始，游戏运行需要 Java 16 或者以上的 Java 版本。如果你没有安装，可以前往[官网](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)下载，或者加入我们的讨论群，在群文件内下载并安装。
 
-> **我们建议使用的客户端**
+> **我们建议使用的客户端**<br><br>
 > 官方正版启动器的使用门槛极低，有助于你快速开始游戏。然而由于*某些众所周知的原因*，官方启动器下载游戏本体的速度十分缓慢。我们推荐以下由国人开发的启动器。
 > - Hello Minecraft 启动器 — [下载地址](https://hmcl.huangyuhui.net/download)
 > - PCL 2 启动器 — [下载地址](https://afdian.net/p/0164034c016c11ebafcb52540025c377)

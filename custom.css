@@ -160,15 +160,6 @@ article.markdown-section {
 
 .markdown-section blockquote {
     color: #34495e;
-    border: 0;
-    border-radius: 2px;
-    padding: 1rem;
-    background: #0096881a;
-}
-
-.markdown-section blockquote p > strong {
-    margin-bottom: 16px !important;
-    display: block;
 }
 
 .markdown-section blockquote p, .markdown-section blockquote ul, .markdown-section blockquote ol {
