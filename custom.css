@@ -133,7 +133,7 @@ img:hover {
 
 code,
 kbd {
-	font-family: 'SF Mono', 'Consolas', '微软雅黑' !important;
+	font-family: 'SF Mono', 'Consolas', Menlo, Courier, '微软雅黑', monospace !important;
 }
 
 h1 code,
@@ -154,7 +154,15 @@ kbd {
 }
 
 article.markdown-section {
-	max-width: 900px;
+	max-width: 1000px;
+	padding: 0 64px;
+}
+
+@media screen and (max-width: 500px) {
+	article.markdown-section {
+		padding: 16px;
+		padding-top: 56px;
+	}
 }
 
 *::selection {
