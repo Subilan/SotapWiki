@@ -47,7 +47,9 @@
             executeScript: true,
             notFoundPage: true,
             requestHeaders: {
-                'cache-control': 'no-cache'
+                'cache-control': 'no-cache',
+                'Pragma': 'no-cache',
+                'If-Modified-Since': 'Thu, 01 Jun 1970 00:00:00 GMT',
             }
         };
     </script>
