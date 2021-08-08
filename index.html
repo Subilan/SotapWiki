@@ -46,7 +46,10 @@
             subMaxLevel: 2,
             themeColor: '#009688',
             executeScript: true,
-            notFoundPage: true
+            notFoundPage: true,
+            requestHeaders: {
+                'cache-control': 'no-cache'
+            }
         };
     </script>
     <script src="//unpkg.com/docsify-copy-code"></script>
