@@ -179,3 +179,7 @@ code {
 	background-color: #1b1f230d !important;
 	border-radius: 3px;
 }
+
+code[class^="lang-"] {
+	background-color: inherit !important;
+}
