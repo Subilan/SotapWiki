@@ -18,7 +18,7 @@
     - [Markdown 教程](/markdown.md)
     - [玩家群组](/groups.md)
 - **插件相关**
-    - [基础指令大全](plugins/basic-commands.md)
+    - [常用指令](plugins/commands.md)
     - [FlarumReader](plugins/flarum-reader.md)
 - **杂项**
   - [生态系统](//sotap.org/ecosystem)

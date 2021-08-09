@@ -35,4 +35,4 @@
 
 - 请仔细阅读[服规](https://sotap.org/rules)以避免出现不必要的问题；
 - 遇到任何困难无法定夺，请积极咨询讨论群群友、论坛或运营团队。运营团队人员名单和联系方式可以在[这里](/about/management.md)找到；
-- 如果你不了解指令的使用，也可以前往[这里](/getting-started/basic-commands.md)查看一些基础的指令用法。
+- 如果你不了解指令的使用，也可以前往[这里](/plugins/commands.md)查看一些基础的指令用法。
