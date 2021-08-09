@@ -25,4 +25,4 @@
   - [运营团队信息和加入事宜](about/management.md)
 - [加入 Wiki 项目](/join-wiki.md)
 - [反馈 Wiki 问题](https://github.com/sotapmc/SotapWiki/issues)
-- [客服板块](//g.sotap.org/t/support)
+- [论坛问答板块](//g.sotap.org/t/qa)
