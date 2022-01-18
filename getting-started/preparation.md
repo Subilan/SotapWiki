@@ -11,7 +11,7 @@
 - 一个安装了 Java 17 且能够上网的电脑
   - 内存 ≥4GB、64 位 Windows 系统、独立显卡为佳（因为服务器里可能有很多建筑）
 
-从 Minecraft 1.18 开始，游戏运行需要 Java 17 或者以上的 Java 版本。如果你没有安装，可以前往[官网](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)下载，或者加入我们的讨论群，在群文件内下载并安装。
+从 Minecraft 1.18 开始，游戏运行需要 Java 17 或者以上的 Java 版本。如果你没有安装，可以点击[这里](https://download.oracle.com/java/17/archive/jdk-17.0.1_windows-x64_bin.exe)下载，或者加入我们的讨论群，在群文件内下载并安装。
 
 > **我们建议使用的客户端**<br><br>
 > 官方正版启动器的使用门槛极低，有助于你快速开始游戏。然而由于*某些众所周知的原因*，官方启动器下载游戏本体的速度十分缓慢。我们推荐以下由国人开发的启动器。
