@@ -1,0 +1,23 @@
+{
+  "name": "sotapwiki",
+  "version": "3.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotapmc/SotapWiki.git"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev .",
+    "docs:build": "vuepress build ."
+  },
+  "author": "SoTap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sotapmc/SotapWiki/issues"
+  },
+  "homepage": "https://github.com/sotapmc/SotapWiki#readme",
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-mathjax": "^1.2.8"
+  }
+}
