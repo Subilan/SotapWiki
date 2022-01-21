@@ -1,7 +1,9 @@
-<h1 align="center">SoTap Wiki</h1>
-<p align="center">开放编辑 | 自由组织 | 基于 VuePress</p>
+<h1 align="center">SoTap Wiki <img src="https://img.shields.io/badge/_-v3-009688?style=flat-square"/></h1>
+<p align="center"> <img src="https://img.shields.io/badge/基于-VuePress-brightgreen?style=for-the-badge&logo=vue.js"/> <img src="https://img.shields.io/badge/协议-CC_BY--NC--ND_-blue?style=for-the-badge&logo=creativecommons"/> <img src="https://img.shields.io/badge/维护时长-2 年-red?style=for-the-badge"/></p>
 
-SoTap Wiki 是 SoTap 服务器的官方维基项目，由玩家和运营团队共同编写和维护。你可通过域名 <https://wiki.sotap.org> 访问本维基。
+<p align="center">SoTap Wiki 是 SoTap 服务器的官方维基项目，由玩家和运营团队共同编写和维护。<br/><sub>你可通过域名 <a href="https://wiki.sotap.org" target="_blank">https://wiki.sotap.org</a> 访问本维基。</sub></p>
+
+## 这是什么？
 
 这是 SoTap Wiki 的源代码存储库，任何对它内容和外观上的修改都发生在这里。你可以在这里
 
