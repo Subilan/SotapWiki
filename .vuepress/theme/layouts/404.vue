@@ -3,7 +3,7 @@
     <div class="theme-default-content">
       <h1>404</h1>
 
-      <blockquote>这个页面不存在。</blockquote>
+      <blockquote>惹，这里什么也没有。</blockquote>
 
       <RouterLink to="/">
         &laquo; 返回
