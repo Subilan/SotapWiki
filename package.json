@@ -6,8 +6,8 @@
     "url": "git+https://github.com/sotapmc/SotapWiki.git"
   },
   "scripts": {
-    "docs:dev": "vuepress dev .",
-    "docs:build": "vuepress build ."
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
   },
   "author": "SoTap",
   "license": "MIT",
