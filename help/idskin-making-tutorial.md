@@ -9,26 +9,26 @@
 ![画图](https://www.hualigs.cn/image/6038bf57a070a.jpg)*微软画图软件*
 
 :::tip
-善用<kbd>Ctrl</kbd>+<kbd>Z</kbd>(撤销刚才的操作)来挽救你的错误操作
+善用 <kbd>Ctrl</kbd>+<kbd>Z</kbd>（撤销刚才的操作）来挽救你的错误操作
 :::
 
 ## 尺寸
 
 :::tip
-目前 ID 皮肤支持大小为 `48x16、96x32、144x48、384x128`像素的图像文件。
+目前 ID 皮肤支持大小为 `48x16`、`96x32`、`144x48`、`384x128` 的图像文件。
 :::
 
-我们以 `48x16` 像素的图像为例：
+下面我们以 `48x16` 像素的图像为例。
 
 首先，你需要创建一个长 48 像素，宽 16 像素的图像文件。
 
 ![尺寸](https://www.hualigs.cn/image/6038bf0474146.jpg)*创建画布*
 
-你可以按住<kbd>Ctrl</kbd>+<kbd>W</kbd>，也可以在**图像**菜单中点击**重新调整大小**来输入合适的数值使其符合要求。
+你可以按下 <kbd>Ctrl</kbd>+<kbd>W</kbd> 或者在**图像**菜单中点击**重新调整大小**，输入合适的数值使其符合要求。
 
 ![尺寸](https://www.hualigs.cn/image/6038c0f645aa7.jpg)*调整大小*
 
-按照以上步骤，我们就得到了一块 `48×16` 像素大小的白色画布。
+按照以上步骤，我们就得到了一块 `48x16` 像素大小的白色画布。
 
 ## 设计
 
@@ -50,7 +50,7 @@
 请务必在两侧的正方形内绘制你的图案！
 :::
 
-你可以自行创作，也可以通过[中文 Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki:%E5%85%B3%E4%BA%8E)等渠道获取官方图片进行创作。如上图中的钻石图案就来自[这里](https://wiki.biligame.com/mc/%E6%96%87%E4%BB%B6:Diamond_Revision_2.png)。
+你可以自行创作，也可以通过[Minecraft 中文 Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki:%E5%85%B3%E4%BA%8E)等渠道获取官方图片进行创作。如上图中的钻石图案就来自[这里](https://wiki.biligame.com/mc/%E6%96%87%E4%BB%B6:Diamond_Revision_2.png)。
 
 :::danger
 这些文件的著作权属于 **MOJANG Studios**，使用时请遵循 [Minecraft 最终用户许可协议（EULA）](https://account.mojang.com/documents/minecraft_eula)

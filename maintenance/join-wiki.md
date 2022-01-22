@@ -24,7 +24,7 @@ Wiki 的编辑工作是纯自愿的，且没有金钱报酬，这是因为 Wiki 
 
 **GitHub** 是国外的一个程序源代码托管网站，大多数由程序员使用，程序员可以在上面免费存放自己的代码。但可以在上面存放的不仅仅是代码，也可以有像 Wiki 一样的项目，比如 SoTap Wiki。
 
-SoTap Wiki 的编辑过程在我们的 [GitHub 项目](//github.com/sotapmc/SotapWiki)中进行，在项目中可以对文件进行若干增添、删除和改动，你的一切改动将会立即反映到 Wiki 的网站上，且会被记录在更新日志中。要开始编辑，首先需要一个 GitHub 账号，如果没有，你可以在[这里](https://github.com/signup)免费注册一个。有了账号以后，请联系 Wiki 相关人员（不一定是管理人员）将你的账号添加到 Collabrator（合作者）内，即可前往 GitHub 项目中直接进行编辑。
+SoTap Wiki 的编辑过程在我们的 [GitHub 项目](https://github.com/sotapmc/SotapWiki)中进行，在项目中可以对文件进行若干增添、删除和改动，你的一切改动将会立即反映到 Wiki 的网站上，且会被记录在更新日志中。要开始编辑，首先需要一个 GitHub 账号，如果没有，你可以在[这里](https://github.com/signup)免费注册一个。有了账号以后，请联系 Wiki 相关人员（不一定是管理人员）将你的账号添加到 Collabrator（合作者）内，即可前往 GitHub 项目中直接进行编辑。
 
 如果你对 GitHub 较为熟悉，可以通过发送 Pull Request 的方式进行编辑而无需联系任何人。如果你认为 GitHub 操作难度较高或者英文看不懂，不适合自己，但仍然想要编辑，则可以将你想要编辑的内容在自己的电脑或者手机上编写完成，然后发送给任意 Wiki 人员帮助你填写到网页上，著作权依然属于原作者。
 
@@ -38,7 +38,7 @@ SoTap Wiki 的编辑过程在我们的 [GitHub 项目](//github.com/sotapmc/Sota
 **Markdown** 是一种文本标记语言，它可以让你在纯文本的情况下表达出粗体、斜体等一般只能在富文本（相对于纯文本）下才能实现的格式。它拥有自己的一套语法，然而十分简单，仅需 5 分钟即可上手，且不需要任何编程知识。你所看到的所有 SoTap Wiki 的内容均由 Markdown 编写。例如，这一部分的 Markdown 文本就是这样的：
 ```
 
-如需了解 Markdown 有关用法，可以查看 [Markdown 使用教程](/markdown.md)。
+如需了解 Markdown 有关用法，可以查看 [Markdown 使用教程](/help/markdown-tutorial.md)。
 
 ## 加入项目
 
