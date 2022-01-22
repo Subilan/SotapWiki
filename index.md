@@ -44,7 +44,7 @@ Wiki 就是用来解决这类问题的存在。我们把一些常见的问题和
 仅需拥有一个 [GitHub](https://github.com) 账号，即可开始编辑 SoTap Wiki。你的编辑将会立即生效并呈现在本站。为了避免误导及滥用，SoTap 运营团队和 Wiki 编写人员将确保 SoTap Wiki 上内容的真实性和可用性，不可用的内容将会及时移除，但贡献者之名并不会被抹去。
 
 :::tip
-如有意参与 Wiki 的编辑工作，可阅读[《加入 SoTap Wiki 项目》](/join-wiki.md)。
+如有意参与 Wiki 的编辑工作，可阅读[《加入 SoTap Wiki 项目》](/maintenance/join-wiki)。
 :::
 
 SoTap Wiki 是由玩家和管理员共同组建起来的知识共享平台，它凝聚了许多人的辛劳与汗水。它一定会有不足，但这正是 Wiki 的魅力所在——你可以自己来帮助修正它，同时成为 Wiki 编辑者的一员！

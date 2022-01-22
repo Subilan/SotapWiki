@@ -6,7 +6,7 @@
 
 ### SoTap 服务器主群
 
-809623422 [点击加入](//shang.qq.com/wpa/qunwpa?idkey=b2668c62484e3d5c400131ae4a688088113dbc1b5b63b18a4bb75749edac99e7)
+809623422 [点击加入](https://shang.qq.com/wpa/qunwpa?idkey=b2668c62484e3d5c400131ae4a688088113dbc1b5b63b18a4bb75749edac99e7)
 
 QQ 主群。加群时请输入你的 Minecraft 国际正版 ID。请确保使用本人的、真实的正版 ID。如有发现顶替、冒充或者编造正版 ID 入群，将会被直接移除。
 
@@ -26,7 +26,7 @@ SoTap Wiki 编者群。如果你有意参与 Wiki 的编写，可以加入此群
 
 ## Telegram
 
-[点击加入](//t.me/sotap_windfall)
+[点击加入](https://t.me/sotap_windfall)
 
 SoTap 社区的 Telegram 公开群组，不限制话题的闲聊群组。
 
