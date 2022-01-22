@@ -29,7 +29,7 @@ const sidebar: SidebarItem[] = [
 		title: '帮助',
 		collapsable: false,
 		children: [
-			['/help/faq', '常见问题'],
+			['/help/faq', '常见问题 FAQ'],
 			['/help/image-posting-tutorial', '发图教程'],
 			['/help/markdown-tutorial', 'Markdown 教程'],
 			['/help/idskin-making-tutorial', 'ID 皮肤制作指南'],
