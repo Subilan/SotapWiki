@@ -15,6 +15,7 @@ module.exports = {
 		editLinks: true,
 		editLinkText: '编辑此页面',
 		repoLabel: '查看源码',
+		docsBranch: 'v3',
 		repo: 'sotapmc/SotapWiki',
 		logo: 'https://sotapmc.oss-cn-beijing.aliyuncs.com/img/logo/logo-120x120.png'
 	},
