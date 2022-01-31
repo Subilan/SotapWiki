@@ -19,5 +19,8 @@
     "@vuepress/plugin-medium-zoom": "^1.9.7",
     "vuepress": "^1.9.7",
     "vuepress-plugin-mathjax": "^1.2.8"
+  },
+  "dependencies": {
+    "markdown-it-footnote": "^3.0.3"
   }
 }
