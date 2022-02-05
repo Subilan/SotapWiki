@@ -14,7 +14,8 @@ const sidebar: SidebarItem[] = [
 		children: [
 			['/server/souvenir', '纪念品'],
 			['/server/idskin', 'ID 皮肤'],
-			['/groups', '玩家群组']
+			['/server/photography', '摄影'],
+			['/groups', '玩家群组'],
 		]
 	},
 	{
