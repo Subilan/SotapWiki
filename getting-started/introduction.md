@@ -18,7 +18,7 @@ SoTap 最初是在 2019 年 7 月 7 日建立的，建立的初衷是 **在国�
   - 支持版本：Java 最新版
   - 性质：公益服
   - MCBBS 宣传贴链接：<https://www.mcbbs.net/forum.php?mod=viewthread&tid=903646>
-  - 当前运营状态：✔ 正在运营
+  - 当前运营状态：🛑 休服（2022.08.05——2023.2 后）
 - 服务器官网：<https://sotap.org>
 - 服务器论坛：<https://g.sotap.org>
   - 中文名称：G 点
