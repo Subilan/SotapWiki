@@ -1,3 +1,11 @@
+:::danger
+**2024 年 2 月 19 日更新**：当前网页显示的是 SoTap Wiki 的第三个版本（v3），内容接近两年没有维护；部分图片和链接已经无法正常访问，仅作存档用。
+:::
+
+:::tip
+最后一次内容更新发生在 [2022.07.31 by Subilan](https://github.com/Subilan/SotapWiki/commit/f0376789766c55f0e335cd6c46ea012fc8062d7a)。
+:::
+
 <div id="main-title" style="font-size: 3rem; margin-top: 56px">
 <span style="font-family: Poppins, sans-serif; font-weight: 700">SoTap</span> <span style="font-family: Georgia, serif; font-weight: 500">Wiki</span>
 </div>
