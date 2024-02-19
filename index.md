@@ -1,6 +1,6 @@
-!> **2024 年 2 月 19 日更新**：当前网页显示的是 SoTap Wiki 的第二个版本（v2），起内容超过两年没有经过维护；部分图片和链接已经无法正常访问，仅作存档用。
+!> **2024 年 2 月 19 日更新**：当前网页显示的是 SoTap Wiki 的第一个版本（v1），超过三年没有经过维护；部分图片和链接已经无法正常访问，仅作存档用。
 
-?> 最后一次内容更新发生在 [2020.11.16 by DogEggWang](https://github.com/Subilan/SotapWiki/commit/ed2942d57e69ab4f8af72e5492b329f5943c2405)。
+?> **最后一次内容更新**：[2020.11.16 by DogEggWang](https://github.com/Subilan/SotapWiki/commit/ed2942d57e69ab4f8af72e5492b329f5943c2405)。
 
 ---
 
