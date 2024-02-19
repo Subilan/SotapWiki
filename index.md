@@ -1,3 +1,11 @@
+# v2.sotap-wiki.seati.cc
+
+!> **2024 年 2 月 19 日更新**：当前网页显示的是 SoTap Wiki 的第二个版本（v2），起内容超过两年没有经过维护；部分图片和链接已经无法正常访问，仅作存档用。
+
+?> 最后一次内容更新发生在 [2022.01.19 by TYC_Knight](https://github.com/Subilan/SotapWiki/commit/942b754b36b080321c481167f4ae42a3f93835df)。
+
+---
+
 <span id="main-title" style="font-size: 3rem">
 <span style="font-family: Poppins, sans-serif; font-weight: 700">SoTap</span> <span style="font-family: Georgia, serif; font-weight: 500">Wiki</span>
 </span>
