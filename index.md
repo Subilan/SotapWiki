@@ -3,7 +3,7 @@
 :::
 
 :::tip
-最后一次内容更新发生在 [2022.07.31 by Subilan](https://github.com/Subilan/SotapWiki/commit/f0376789766c55f0e335cd6c46ea012fc8062d7a)。
+**最后一次内容更新**： [2022.07.31 by Subilan](https://github.com/Subilan/SotapWiki/commit/f0376789766c55f0e335cd6c46ea012fc8062d7a)。
 :::
 
 <div id="main-title" style="font-size: 3rem; margin-top: 56px">
